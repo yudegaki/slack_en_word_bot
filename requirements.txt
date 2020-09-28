@@ -1,1 +1,2 @@
-slackbot
+slackbot==1.0.0
+slacker==0.14.0

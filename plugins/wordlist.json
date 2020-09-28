@@ -1,0 +1,5779 @@
+[
+    {
+        "Meanings": "afterward",
+        "English Definition": "happening after something else happened",
+        "POS": "adv",
+        "J Translation": "その後"
+    },
+    {
+        "Meanings": "amongst",
+        "English Definition": "in or through a group",
+        "POS": "prep",
+        "J Translation": "～の間に；～の中の"
+    },
+    {
+        "Meanings": "artistic",
+        "English Definition": "Being able to paint, write music, etc.; creative",
+        "POS": "adj",
+        "J Translation": "芸術的な"
+    },
+    {
+        "Meanings": "backward",
+        "English Definition": "toward what is behind you",
+        "POS": "adv",
+        "J Translation": "後ろへ"
+    },
+    {
+        "Meanings": "bodily",
+        "English Definition": "physically, as when lifting someone",
+        "POS": "adv",
+        "J Translation": "身体の"
+    },
+    {
+        "Meanings": "carrier",
+        "English Definition": "a company, usually an airline, that carries things",
+        "POS": "n",
+        "J Translation": "運送業；航空会社；電話会社"
+    },
+    {
+        "Meanings": "collective",
+        "English Definition": "formed by working together as a group",
+        "POS": "adj",
+        "J Translation": "収集された； 集団の"
+    },
+    {
+        "Meanings": "computation",
+        "English Definition": "the act of calculating; method of computing",
+        "POS": "n",
+        "J Translation": "計算"
+    },
+    {
+        "Meanings": "continuity",
+        "English Definition": "continued existence; fact of not stopping",
+        "POS": "n",
+        "J Translation": "継続性"
+    },
+    {
+        "Meanings": "definite",
+        "English Definition": "Not likely to change; clearly decided",
+        "POS": "adj",
+        "J Translation": "明確な；限定的な"
+    },
+    {
+        "Meanings": "freely",
+        "English Definition": "(living, existing) without being controlled",
+        "POS": "adv",
+        "J Translation": "自由に"
+    },
+    {
+        "Meanings": "generalization",
+        "English Definition": "making a statement about a group from limited data",
+        "POS": "n",
+        "J Translation": "一般化；一般概念"
+    },
+    {
+        "Meanings": "generalize",
+        "English Definition": "To apply a particular idea to a large group",
+        "POS": "verb",
+        "J Translation": "一般化する"
+    },
+    {
+        "Meanings": "goodness",
+        "English Definition": "nourishment; good food value",
+        "POS": "n",
+        "J Translation": "よいこと"
+    },
+    {
+        "Meanings": "historically",
+        "English Definition": "throughout history",
+        "POS": "adv",
+        "J Translation": "歴史的に"
+    },
+    {
+        "Meanings": "importantly",
+        "English Definition": "in an important way; ",
+        "POS": "adv",
+        "J Translation": "重要なことには"
+    },
+    {
+        "Meanings": "interestingly",
+        "English Definition": "you'll find this surprising; in an interesting way",
+        "POS": "adv",
+        "J Translation": "興味深いことに"
+    },
+    {
+        "Meanings": "locally",
+        "English Definition": "Concerning the area around where you are",
+        "POS": "adj",
+        "J Translation": "局所的に；地元で"
+    },
+    {
+        "Meanings": "machinery",
+        "English Definition": "machines in general",
+        "POS": "n",
+        "J Translation": "機械"
+    },
+    {
+        "Meanings": "marker",
+        "English Definition": "something that is easy to recognize or identify",
+        "POS": "n",
+        "J Translation": "標識；マーカー "
+    },
+    {
+        "Meanings": "meaningful",
+        "English Definition": "Having importance; showing someone's intention",
+        "POS": "adj",
+        "J Translation": "意味のある"
+    },
+    {
+        "Meanings": "namely",
+        "English Definition": "that is to say, specifically",
+        "POS": "adv",
+        "J Translation": "すなわち；つまり"
+    },
+    {
+        "Meanings": "nationalism",
+        "English Definition": "The spirit of love of your country, e.g. leading to war",
+        "POS": "n",
+        "J Translation": "国家主義"
+    },
+    {
+        "Meanings": "neat",
+        "English Definition": "Not messy; clean and orderly; simple and effective",
+        "POS": "adj",
+        "J Translation": "きちんとした"
+    },
+    {
+        "Meanings": "nicely",
+        "English Definition": "in a pleasing way; in a polite way",
+        "POS": "adv",
+        "J Translation": "うまく；よく"
+    },
+    {
+        "Meanings": "noisy",
+        "English Definition": "full of noise; loud",
+        "POS": "adj",
+        "J Translation": "やかましい；派手な "
+    },
+    {
+        "Meanings": "outer",
+        "English Definition": "on or around something",
+        "POS": "adj",
+        "J Translation": "外側の；中心から遠くにある"
+    },
+    {
+        "Meanings": "painful",
+        "English Definition": "causing or feeling physical pain or hurt",
+        "POS": "adj",
+        "J Translation": "痛い"
+    },
+    {
+        "Meanings": "pardon",
+        "English Definition": "to excuse",
+        "POS": "verb",
+        "J Translation": "何とおっしゃいましたか？"
+    },
+    {
+        "Meanings": "parental",
+        "English Definition": "concerning, or provided by, a parent",
+        "POS": "adj",
+        "J Translation": "親の"
+    },
+    {
+        "Meanings": "partial",
+        "English Definition": "not complete; being only part of something",
+        "POS": "adj",
+        "J Translation": "部分的な；不公平な"
+    },
+    {
+        "Meanings": "partially",
+        "English Definition": "in part; in some degree; not wholly",
+        "POS": "adv",
+        "J Translation": "部分的に；不公平に"
+    },
+    {
+        "Meanings": "photographic",
+        "English Definition": "concerning the art of making images with cameras",
+        "POS": "adj",
+        "J Translation": "写真の"
+    },
+    {
+        "Meanings": "planner",
+        "English Definition": "notebook for recording appointments or things to do",
+        "POS": "n",
+        "J Translation": "手帳；ノート"
+    },
+    {
+        "Meanings": "problematic",
+        "English Definition": "being difficult to deal with or fix",
+        "POS": "adj",
+        "J Translation": "問題のある"
+    },
+    {
+        "Meanings": "readily",
+        "English Definition": "in a quick and easy manner",
+        "POS": "adv",
+        "J Translation": "容易に"
+    },
+    {
+        "Meanings": "realism",
+        "English Definition": "accepting things as they are, not as you want",
+        "POS": "n",
+        "J Translation": "現実主義"
+    },
+    {
+        "Meanings": "realistic",
+        "English Definition": "looks or appears real; like things really are",
+        "POS": "adj",
+        "J Translation": "現実的な"
+    },
+    {
+        "Meanings": "rewrite",
+        "English Definition": "to write again to improve, or correct errors",
+        "POS": "verb",
+        "J Translation": "書き直す"
+    },
+    {
+        "Meanings": "ruler",
+        "English Definition": "someone who has control over a country or area",
+        "POS": "n",
+        "J Translation": "支配者；統治者"
+    },
+    {
+        "Meanings": "sexuality",
+        "English Definition": "characterized and distinguished by sex",
+        "POS": "n",
+        "J Translation": "性的特質"
+    },
+    {
+        "Meanings": "simplify",
+        "English Definition": "to make something easier to do, use or understand",
+        "POS": "verb",
+        "J Translation": "簡素化する"
+    },
+    {
+        "Meanings": "sometime",
+        "English Definition": "at an unknown time in the future",
+        "POS": "adj",
+        "J Translation": "いつか"
+    },
+    {
+        "Meanings": "specialty",
+        "English Definition": "the specific area of your field",
+        "POS": "n",
+        "J Translation": "専門；特殊；名物"
+    },
+    {
+        "Meanings": "subset",
+        "English Definition": "a small set which is part of a larger set",
+        "POS": "n",
+        "J Translation": "少派"
+    },
+    {
+        "Meanings": "supposedly",
+        "English Definition": "as some people believe (shows you doubt it)",
+        "POS": "adv",
+        "J Translation": "たぶん"
+    },
+    {
+        "Meanings": "systematic",
+        "English Definition": "done in a thorough, logical or planned way",
+        "POS": "adj",
+        "J Translation": "体系的な；組織的な"
+    },
+    {
+        "Meanings": "terribly",
+        "English Definition": "to an extreme degree; badly; very",
+        "POS": "adv",
+        "J Translation": "ひどく"
+    },
+    {
+        "Meanings": "thickness",
+        "English Definition": "the distance between the opposite edges of a thing",
+        "POS": "n",
+        "J Translation": "厚さ"
+    },
+    {
+        "Meanings": "underneath",
+        "English Definition": "below or beneath something; under",
+        "POS": "adv",
+        "J Translation": "下に"
+    },
+    {
+        "Meanings": "unemployed",
+        "English Definition": "being without a job; jobless",
+        "POS": "adj",
+        "J Translation": "失業した，失業者"
+    },
+    {
+        "Meanings": "whichever",
+        "English Definition": "whatever one",
+        "POS": "det",
+        "J Translation": "どちらの～でも"
+    },
+    {
+        "Meanings": "whoever",
+        "English Definition": "whatever person; any person at all",
+        "POS": "pron",
+        "J Translation": "誰が～しようとも；一体誰が～；～する人は誰でも"
+    },
+    {
+        "Meanings": "accent",
+        "English Definition": "a way of speaking that shows your dialect or class",
+        "POS": "n",
+        "J Translation": "訛り"
+    },
+    {
+        "Meanings": "actively",
+        "English Definition": "doing things to achieve a specific goal",
+        "POS": "adv",
+        "J Translation": "積極的に"
+    },
+    {
+        "Meanings": "adaptation",
+        "English Definition": "changing to a new form; thing that is changed",
+        "POS": "n",
+        "J Translation": "適応"
+    },
+    {
+        "Meanings": "adaptive",
+        "English Definition": "able to adjust to new conditions",
+        "POS": "adj",
+        "J Translation": "適応性のある"
+    },
+    {
+        "Meanings": "apple",
+        "English Definition": "hard round red or green fruit with a white center",
+        "POS": "n",
+        "J Translation": "りんご"
+    },
+    {
+        "Meanings": "authority",
+        "English Definition": "people in positions of power, able to decide things",
+        "POS": "n",
+        "J Translation": "権力者； 権限者"
+    },
+    {
+        "Meanings": "availability",
+        "English Definition": "being present and able to be used",
+        "POS": "n",
+        "J Translation": "可用性；利用可能"
+    },
+    {
+        "Meanings": "bang",
+        "English Definition": "to strike something loudly or forcefully",
+        "POS": "verb",
+        "J Translation": "たたく；ぶつける"
+    },
+    {
+        "Meanings": "bat",
+        "English Definition": "object used for hitting a ball in various games",
+        "POS": "n",
+        "J Translation": "バット"
+    },
+    {
+        "Meanings": "blank",
+        "English Definition": "being empty; not filled out; with no writing on it",
+        "POS": "adj",
+        "J Translation": "空白"
+    },
+    {
+        "Meanings": "bleed",
+        "English Definition": "to lose blood because of an injury",
+        "POS": "verb",
+        "J Translation": "出血する"
+    },
+    {
+        "Meanings": "bound",
+        "English Definition": "to go to a specified place; to jump",
+        "POS": "verb",
+        "J Translation": "縛られた"
+    },
+    {
+        "Meanings": "broadly",
+        "English Definition": "in a general (not detailed) manner",
+        "POS": "adv",
+        "J Translation": "広く"
+    },
+    {
+        "Meanings": "bucket",
+        "English Definition": "open container with a handle used to carry liquids",
+        "POS": "n",
+        "J Translation": "バケツ"
+    },
+    {
+        "Meanings": "calculation",
+        "English Definition": "process or result of using mathematics",
+        "POS": "n",
+        "J Translation": "計算"
+    },
+    {
+        "Meanings": "calculator",
+        "English Definition": "a small electronic device used for calculation",
+        "POS": "n",
+        "J Translation": "計算機"
+    },
+    {
+        "Meanings": "characterization",
+        "English Definition": "the way someone or something is described",
+        "POS": "n",
+        "J Translation": "特徴付けること"
+    },
+    {
+        "Meanings": "cheat",
+        "English Definition": "To act in dishonest manner to gain an advantage",
+        "POS": "verb",
+        "J Translation": "だます"
+    },
+    {
+        "Meanings": "cheers",
+        "English Definition": "a toast used when raising your glass to drink",
+        "POS": "n",
+        "J Translation": "乾杯"
+    },
+    {
+        "Meanings": "clever",
+        "English Definition": "Showing intelligence; quick to understand or learn",
+        "POS": "adj",
+        "J Translation": "利口な"
+    },
+    {
+        "Meanings": "clip",
+        "English Definition": "a metal holder used for keeping things together",
+        "POS": "n",
+        "J Translation": "クリップ；切り抜き，切り抜く"
+    },
+    {
+        "Meanings": "clue",
+        "English Definition": "a piece of information that helps explain a situation or provide a solution to a problem",
+        "POS": "n",
+        "J Translation": "手がかり"
+    },
+    {
+        "Meanings": "commentary",
+        "English Definition": "explanation or discussion of a written work/event",
+        "POS": "n",
+        "J Translation": "論評；注釈；記録"
+    },
+    {
+        "Meanings": "commonly",
+        "English Definition": "typically, normally; not unusually",
+        "POS": "adv",
+        "J Translation": "一般に"
+    },
+    {
+        "Meanings": "comparable",
+        "English Definition": "being similar in some way",
+        "POS": "adj",
+        "J Translation": "比較できる；同等な"
+    },
+    {
+        "Meanings": "complication",
+        "English Definition": "action making something harder to do something",
+        "POS": "n",
+        "J Translation": "合併症"
+    },
+    {
+        "Meanings": "conditional",
+        "English Definition": "depending (on)",
+        "POS": "adj",
+        "J Translation": "条件付きの"
+    },
+    {
+        "Meanings": "connector",
+        "English Definition": "a device that joins things together",
+        "POS": "n",
+        "J Translation": "コネクタ"
+    },
+    {
+        "Meanings": "conscious",
+        "English Definition": "aware of what is going on around you; not knocked out",
+        "POS": "adj",
+        "J Translation": "意識している"
+    },
+    {
+        "Meanings": "consciousness",
+        "English Definition": "being awake",
+        "POS": "n",
+        "J Translation": "意識"
+    },
+    {
+        "Meanings": "container",
+        "English Definition": "an object that can be used to hold things",
+        "POS": "n",
+        "J Translation": "容器"
+    },
+    {
+        "Meanings": "correction",
+        "English Definition": "a change to make something right",
+        "POS": "n",
+        "J Translation": "訂正"
+    },
+    {
+        "Meanings": "correctly",
+        "English Definition": "in an accurate or correct manner",
+        "POS": "adv",
+        "J Translation": "正しく"
+    },
+    {
+        "Meanings": "cure",
+        "English Definition": "a medicine or treatment that makes an ill person become healthy",
+        "POS": "n",
+        "J Translation": "治療，治療する"
+    },
+    {
+        "Meanings": "detection",
+        "English Definition": "the act of discovering something or solving a crime",
+        "POS": "n",
+        "J Translation": "発見；検出"
+    },
+    {
+        "Meanings": "developmental",
+        "English Definition": "concerning the development or growth",
+        "POS": "adj",
+        "J Translation": "発達上の"
+    },
+    {
+        "Meanings": "directive",
+        "English Definition": "formal an order from an authority",
+        "POS": "n",
+        "J Translation": "指令；指示の"
+    },
+    {
+        "Meanings": "disturbance",
+        "English Definition": "a noise or something that stops you from continuing what you were doing",
+        "POS": "n",
+        "J Translation": "騒乱；妨害"
+    },
+    {
+        "Meanings": "economically",
+        "English Definition": "in an efficient manner; without using too much effort",
+        "POS": "adv",
+        "J Translation": "経済的に"
+    },
+    {
+        "Meanings": "economist",
+        "English Definition": "a person who studies economics",
+        "POS": "n",
+        "J Translation": "経済学者"
+    },
+    {
+        "Meanings": "enormously",
+        "English Definition": "extremely, by a large amount",
+        "POS": "adv",
+        "J Translation": "非常に"
+    },
+    {
+        "Meanings": "equality",
+        "English Definition": "the idea that all people have the same rights",
+        "POS": "n",
+        "J Translation": "平等"
+    },
+    {
+        "Meanings": "flip",
+        "English Definition": "to rotate or turn something over",
+        "POS": "n",
+        "J Translation": "反転する；はじく"
+    },
+    {
+        "Meanings": "ghost",
+        "English Definition": "spirit of a dead person, appearing to the living",
+        "POS": "n",
+        "J Translation": "幽霊"
+    },
+    {
+        "Meanings": "hedge",
+        "English Definition": "a fence made with small trees; avoid or try to avoid fulfilling",
+        "POS": "n",
+        "J Translation": "生け垣；防衛"
+    },
+    {
+        "Meanings": "identification",
+        "English Definition": "(card or paper) that proves who a person is",
+        "POS": "n",
+        "J Translation": "確認；識別；身分証明書"
+    },
+    {
+        "Meanings": "incredible",
+        "English Definition": "very hard to believe",
+        "POS": "adj",
+        "J Translation": "信じられない"
+    },
+    {
+        "Meanings": "incredibly",
+        "English Definition": "extremely, hard to believe",
+        "POS": "adv",
+        "J Translation": "信じられないほど"
+    },
+    {
+        "Meanings": "indicator",
+        "English Definition": "an instrument that shows conditions in a machine, such as temperature, speed, pressure; in chemistry: a compound that changes color in the presence of an acid or a base",
+        "POS": "n",
+        "J Translation": "測定器；指針"
+    },
+    {
+        "Meanings": "individually",
+        "English Definition": "in a way involving only that person",
+        "POS": "adv",
+        "J Translation": "個別に"
+    },
+    {
+        "Meanings": "industrialization",
+        "English Definition": "process of creating and developing many businesses",
+        "POS": "n",
+        "J Translation": "工業化"
+    },
+    {
+        "Meanings": "industrialize",
+        "English Definition": "To make into something at an industrial level",
+        "POS": "verb",
+        "J Translation": "工業化する"
+    },
+    {
+        "Meanings": "inequality",
+        "English Definition": "situation where things are not equal/fair",
+        "POS": "n",
+        "J Translation": "不平等"
+    },
+    {
+        "Meanings": "influential",
+        "English Definition": "having the power to cause change; having influence",
+        "POS": "adj",
+        "J Translation": "影響力のある"
+    },
+    {
+        "Meanings": "instability",
+        "English Definition": "not stable; changeable",
+        "POS": "n",
+        "J Translation": "不安定"
+    },
+    {
+        "Meanings": "intensity",
+        "English Definition": "great energy, strength, or concentration",
+        "POS": "n",
+        "J Translation": "激しさ；強度"
+    },
+    {
+        "Meanings": "intensive",
+        "English Definition": "needing great effort for a short period of time",
+        "POS": "adj",
+        "J Translation": "激しい；集中的な"
+    },
+    {
+        "Meanings": "interrupt",
+        "English Definition": "to cause something to stop happening for a time",
+        "POS": "verb",
+        "J Translation": "中断する；割り込む"
+    },
+    {
+        "Meanings": "interviewer",
+        "English Definition": "a person who asks questions to obtain information",
+        "POS": "n",
+        "J Translation": "面接する人"
+    },
+    {
+        "Meanings": "junior",
+        "English Definition": "someone lower in rank",
+        "POS": "adj",
+        "J Translation": "年下の；後輩の，年少者"
+    },
+    {
+        "Meanings": "kilometer",
+        "English Definition": "a metric unit of length equal to 1000 meters",
+        "POS": "n",
+        "J Translation": "キロメートル"
+    },
+    {
+        "Meanings": "lab",
+        "English Definition": "laboratory; a place to do scientific experiments",
+        "POS": "n",
+        "J Translation": "研究所"
+    },
+    {
+        "Meanings": "likelihood",
+        "English Definition": "the chance that something might happen",
+        "POS": "n",
+        "J Translation": "可能性"
+    },
+    {
+        "Meanings": "lump",
+        "English Definition": "a small hard part of something smooth, soft, or continuous",
+        "POS": "n",
+        "J Translation": "かたまり；しこり"
+    },
+    {
+        "Meanings": "mathematical",
+        "English Definition": "concerning numbers and equations",
+        "POS": "adj",
+        "J Translation": "数学の"
+    },
+    {
+        "Meanings": "memorize",
+        "English Definition": "to study something so that you remember it",
+        "POS": "verb",
+        "J Translation": "覚える"
+    },
+    {
+        "Meanings": "minus",
+        "English Definition": "(prep) being less than zero in number",
+        "POS": "prep",
+        "J Translation": "マイナス；負数"
+    },
+    {
+        "Meanings": "monkey",
+        "English Definition": "an animal related to humans, which lives in trees",
+        "POS": "n",
+        "J Translation": "サル"
+    },
+    {
+        "Meanings": "nasty",
+        "English Definition": "very bad, unpleasant, or offensive",
+        "POS": "adj",
+        "J Translation": "不快な；意地の悪い"
+    },
+    {
+        "Meanings": "nest",
+        "English Definition": "the home of a bird or spider",
+        "POS": "n",
+        "J Translation": "巣"
+    },
+    {
+        "Meanings": "observer",
+        "English Definition": "someone whose job it is to watch or notice things",
+        "POS": "n",
+        "J Translation": "観察者；監視者"
+    },
+    {
+        "Meanings": "occurrence",
+        "English Definition": "specific instance of something happening",
+        "POS": "n",
+        "J Translation": "発生；出来事"
+    },
+    {
+        "Meanings": "periodic",
+        "English Definition": "happening regularly, but not frequently",
+        "POS": "adj",
+        "J Translation": "定期的な"
+    },
+    {
+        "Meanings": "physically",
+        "English Definition": "in a manner related to the body",
+        "POS": "adv",
+        "J Translation": "肉体的に；身体上"
+    },
+    {
+        "Meanings": "plug",
+        "English Definition": "an electrical connector; to fill or close tightly so liquid or air cannot pass",
+        "POS": "verb",
+        "J Translation": "プラグ；栓"
+    },
+    {
+        "Meanings": "politically",
+        "English Definition": "in connection with government matters",
+        "POS": "adv",
+        "J Translation": "政治的に"
+    },
+    {
+        "Meanings": "positively",
+        "English Definition": "definitely or certainly",
+        "POS": "adv",
+        "J Translation": "確実に；前向きに"
+    },
+    {
+        "Meanings": "presume",
+        "English Definition": "to think that something is probably true",
+        "POS": "verb",
+        "J Translation": "推定する"
+    },
+    {
+        "Meanings": "processor",
+        "English Definition": "a machine or company that prepares something and makes it ready for use",
+        "POS": "n",
+        "J Translation": "処理装置；加工機；加工業者"
+    },
+    {
+        "Meanings": "productive",
+        "English Definition": "doing a lot of work and achieving a lot",
+        "POS": "adj",
+        "J Translation": "生産的な"
+    },
+    {
+        "Meanings": "productivity",
+        "English Definition": "rate at which something is made or that people work",
+        "POS": "n",
+        "J Translation": "多産；生産性"
+    },
+    {
+        "Meanings": "progression",
+        "English Definition": "process of developing over time",
+        "POS": "n",
+        "J Translation": "発達；進歩"
+    },
+    {
+        "Meanings": "progressive",
+        "English Definition": "believing in modern ideas about social change",
+        "POS": "adj",
+        "J Translation": "進歩的な"
+    },
+    {
+        "Meanings": "projection",
+        "English Definition": "an image on a screen",
+        "POS": "n",
+        "J Translation": "投影；投射"
+    },
+    {
+        "Meanings": "pronounce",
+        "English Definition": "to make the sound of a word or letter with your voice",
+        "POS": "verb",
+        "J Translation": "発音する"
+    },
+    {
+        "Meanings": "punch",
+        "English Definition": "to make a quick hit with a closed hand",
+        "POS": "verb",
+        "J Translation": "殴る，パンチ"
+    },
+    {
+        "Meanings": "punish",
+        "English Definition": "to make someone suffer for bad behavior",
+        "POS": "verb",
+        "J Translation": "罰する"
+    },
+    {
+        "Meanings": "punishment",
+        "English Definition": "the act of punishing someone",
+        "POS": "n",
+        "J Translation": "罰"
+    },
+    {
+        "Meanings": "purely",
+        "English Definition": "for no other reason; only and completely",
+        "POS": "adv",
+        "J Translation": "純粋に"
+    },
+    {
+        "Meanings": "quotation",
+        "English Definition": "words that a person has said or written in a play, book or movie",
+        "POS": "n",
+        "J Translation": "引用；相場；見積書"
+    },
+    {
+        "Meanings": "ray",
+        "English Definition": "the lines of light coming from an object",
+        "POS": "n",
+        "J Translation": "光線"
+    },
+    {
+        "Meanings": "reactive",
+        "English Definition": "easily reacting to; responsive",
+        "POS": "adj",
+        "J Translation": "反応の"
+    },
+    {
+        "Meanings": "reactor",
+        "English Definition": "device to control nuclear energy as a power source",
+        "POS": "n",
+        "J Translation": "原子炉"
+    },
+    {
+        "Meanings": "recipe",
+        "English Definition": "directions for making something",
+        "POS": "n",
+        "J Translation": "レシピ "
+    },
+    {
+        "Meanings": "reliability",
+        "English Definition": "a quality that makes someone or something dependable and deserving of trust",
+        "POS": "n",
+        "J Translation": "信頼性"
+    },
+    {
+        "Meanings": "replacement",
+        "English Definition": "the act of putting something new in the place of something that is old, broken or missing",
+        "POS": "n",
+        "J Translation": "交換"
+    },
+    {
+        "Meanings": "resistant",
+        "English Definition": "not affected by something",
+        "POS": "adj",
+        "J Translation": "抵抗する；耐性のある"
+    },
+    {
+        "Meanings": "ridiculous",
+        "English Definition": "something that deserves laughter, is foolish or funny",
+        "POS": "adj",
+        "J Translation": "ばかげた"
+    },
+    {
+        "Meanings": "rope",
+        "English Definition": "a thick string made by twisting many fibers together",
+        "POS": "n",
+        "J Translation": "ロープ"
+    },
+    {
+        "Meanings": "rub",
+        "English Definition": "to move something back and forth along a surface",
+        "POS": "verb",
+        "J Translation": "こする"
+    },
+    {
+        "Meanings": "selective",
+        "English Definition": "choosing through thoughtful comparison",
+        "POS": "adj",
+        "J Translation": "選択的な"
+    },
+    {
+        "Meanings": "separately",
+        "English Definition": "not with another person or thing",
+        "POS": "adv",
+        "J Translation": "別々に"
+    },
+    {
+        "Meanings": "separation",
+        "English Definition": "a line that seperates; a point of parting; a gap",
+        "POS": "n",
+        "J Translation": "分離"
+    },
+    {
+        "Meanings": "similarity",
+        "English Definition": "the degree to which people or things are the same",
+        "POS": "n",
+        "J Translation": "類似"
+    },
+    {
+        "Meanings": "slavery",
+        "English Definition": "(n,) the state of being a slave",
+        "POS": "n",
+        "J Translation": "奴隷制度"
+    },
+    {
+        "Meanings": "snake",
+        "English Definition": "an animal with with a long thin body and no arms or legs",
+        "POS": "n",
+        "J Translation": "ヘビ"
+    },
+    {
+        "Meanings": "socially",
+        "English Definition": "being with other people",
+        "POS": "adv",
+        "J Translation": "社会的に"
+    },
+    {
+        "Meanings": "specification",
+        "English Definition": "a detailed description of the design and materials used to make something.",
+        "POS": "n",
+        "J Translation": "仕様"
+    },
+    {
+        "Meanings": "spray",
+        "English Definition": "to make water or liquid fly in very small drops",
+        "POS": "verb",
+        "J Translation": "スプレー，スプレーする；散布する"
+    },
+    {
+        "Meanings": "stabilize",
+        "English Definition": "to make something stable or consistent, with no major changes",
+        "POS": "verb",
+        "J Translation": "安定させる"
+    },
+    {
+        "Meanings": "standardize",
+        "English Definition": "to change something in order to make everything the same or make everything agree",
+        "POS": "verb",
+        "J Translation": "標準化する"
+    },
+    {
+        "Meanings": "sword",
+        "English Definition": "a long metal weapon with a sharp point and edge",
+        "POS": "n",
+        "J Translation": "剣"
+    },
+    {
+        "Meanings": "tech",
+        "English Definition": "short for 'technology' or 'technician'",
+        "POS": "n",
+        "J Translation": "科学技術"
+    },
+    {
+        "Meanings": "tempt",
+        "English Definition": "to make someone want something, even if it's bad",
+        "POS": "verb",
+        "J Translation": "誘惑する"
+    },
+    {
+        "Meanings": "tense",
+        "English Definition": "stretched tight and stiff",
+        "POS": "adj",
+        "J Translation": "緊張した；ピンと張った"
+    },
+    {
+        "Meanings": "traditionally",
+        "English Definition": "something done in a customary or traditional manner",
+        "POS": "adv",
+        "J Translation": "伝統的に"
+    },
+    {
+        "Meanings": "tricky",
+        "English Definition": "difficult to do or deal with; something that needs skill",
+        "POS": "adj",
+        "J Translation": "巧妙な；扱いにくい"
+    },
+    {
+        "Meanings": "unstable",
+        "English Definition": "likely to move from its position or fall",
+        "POS": "adj",
+        "J Translation": "不安定な"
+    },
+    {
+        "Meanings": "variability",
+        "English Definition": "(statistics) degree scores depart from the mean",
+        "POS": "n",
+        "J Translation": "変動"
+    },
+    {
+        "Meanings": "variance",
+        "English Definition": "(statistics) amount of difference in distributions",
+        "POS": "n",
+        "J Translation": "分散"
+    },
+    {
+        "Meanings": "variant",
+        "English Definition": "thing that differs from something of the same kind",
+        "POS": "n",
+        "J Translation": "変異"
+    },
+    {
+        "Meanings": "wisdom",
+        "English Definition": "knowledge gained from experience in life",
+        "POS": "n",
+        "J Translation": "知恵"
+    },
+    {
+        "Meanings": "absorb",
+        "English Definition": "to take in a liquid; soak up",
+        "POS": "verb",
+        "J Translation": "吸収する"
+    },
+    {
+        "Meanings": "absorption",
+        "English Definition": "process of being absorbed (e.g. liquid, attention)",
+        "POS": "n",
+        "J Translation": "吸収"
+    },
+    {
+        "Meanings": "accelerate",
+        "English Definition": "to increase the speed or rate of something",
+        "POS": "verb",
+        "J Translation": "加速する"
+    },
+    {
+        "Meanings": "acceleration",
+        "English Definition": "increase in the speed or rate of something",
+        "POS": "n",
+        "J Translation": "加速"
+    },
+    {
+        "Meanings": "accumulate",
+        "English Definition": "To gather or acquire so that you have more of it",
+        "POS": "verb",
+        "J Translation": "蓄積する"
+    },
+    {
+        "Meanings": "accumulation",
+        "English Definition": "The act of getting or becoming bigger or more over time",
+        "POS": "n",
+        "J Translation": "蓄積"
+    },
+    {
+        "Meanings": "accuracy",
+        "English Definition": "being exactly right; correctness",
+        "POS": "n",
+        "J Translation": "正確さ"
+    },
+    {
+        "Meanings": "accurately",
+        "English Definition": "exactly and without any mistakes; correctly",
+        "POS": "adv",
+        "J Translation": "正確に"
+    },
+    {
+        "Meanings": "acid",
+        "English Definition": "sour substance that reacts with metals e.g. lemon",
+        "POS": "n",
+        "J Translation": "酸"
+    },
+    {
+        "Meanings": "acidic",
+        "English Definition": "containing acid",
+        "POS": "adj",
+        "J Translation": "酸性の"
+    },
+    {
+        "Meanings": "admission",
+        "English Definition": "the act of taking responsibility for an error or mistake",
+        "POS": "n",
+        "J Translation": "自白"
+    },
+    {
+        "Meanings": "adolescent",
+        "English Definition": "Teenager developing into an adult",
+        "POS": "n",
+        "J Translation": "青春期の若者"
+    },
+    {
+        "Meanings": "affirm",
+        "English Definition": "to state, strengthen or support a belief you have",
+        "POS": "verb",
+        "J Translation": "確認する"
+    },
+    {
+        "Meanings": "agriculture",
+        "English Definition": "the science of farming",
+        "POS": "n",
+        "J Translation": "農業"
+    },
+    {
+        "Meanings": "alien",
+        "English Definition": "person or creature from a planet other than Earth",
+        "POS": "n",
+        "J Translation": "外国人；宇宙人"
+    },
+    {
+        "Meanings": "alliance",
+        "English Definition": "A group of people or organizations being joined or associated",
+        "POS": "n",
+        "J Translation": "同盟；提携"
+    },
+    {
+        "Meanings": "allocate",
+        "English Definition": "To distribute or set apart for a plan or purpose",
+        "POS": "verb",
+        "J Translation": "割り当てる"
+    },
+    {
+        "Meanings": "allocation",
+        "English Definition": "The distribution of items set apart according to a plan or purpose",
+        "POS": "n",
+        "J Translation": "割り当て"
+    },
+    {
+        "Meanings": "approximate",
+        "English Definition": "about; not exact but close",
+        "POS": "adj",
+        "J Translation": "約；大体の；おおよその"
+    },
+    {
+        "Meanings": "approximation",
+        "English Definition": "something that is similar, but not an exact copy",
+        "POS": "n",
+        "J Translation": "近似"
+    },
+    {
+        "Meanings": "archaeology",
+        "English Definition": "the study of ancient societies by looking at old tools, bones and buildings",
+        "POS": "n",
+        "J Translation": "考古学"
+    },
+    {
+        "Meanings": "architect",
+        "English Definition": "person who designs and advises on buildings",
+        "POS": "n",
+        "J Translation": "建築家"
+    },
+    {
+        "Meanings": "aspect",
+        "English Definition": "an element, feature, or quality of something",
+        "POS": "n",
+        "J Translation": "面；様相"
+    },
+    {
+        "Meanings": "assembly",
+        "English Definition": "a group of machine parts forming a tool or machine",
+        "POS": "n",
+        "J Translation": "組み立て"
+    },
+    {
+        "Meanings": "assert",
+        "English Definition": "To state or declare your ideas positively strongly",
+        "POS": "verb",
+        "J Translation": "断言する"
+    },
+    {
+        "Meanings": "assignment",
+        "English Definition": "A duty that you are give to do (especially in the armed forces)",
+        "POS": "n",
+        "J Translation": "任務； 業務； 職"
+    },
+    {
+        "Meanings": "athletic",
+        "English Definition": "fit and strong; physically capable",
+        "POS": "adj",
+        "J Translation": "たくましい；強健な"
+    },
+    {
+        "Meanings": "atom",
+        "English Definition": "smallest bit that matter can be broken down into",
+        "POS": "n",
+        "J Translation": "原子"
+    },
+    {
+        "Meanings": "atomic",
+        "English Definition": "concerning atoms",
+        "POS": "adj",
+        "J Translation": "原子の"
+    },
+    {
+        "Meanings": "audit",
+        "English Definition": "to examine carefully for accuracy",
+        "POS": "verb",
+        "J Translation": "監査"
+    },
+    {
+        "Meanings": "bacteria",
+        "English Definition": "the very small creatures that sometimes cause disease in humans and animals",
+        "POS": "n",
+        "J Translation": "細菌"
+    },
+    {
+        "Meanings": "bacterial",
+        "English Definition": "concerning or caused by bacteria",
+        "POS": "adj",
+        "J Translation": "細菌の"
+    },
+    {
+        "Meanings": "bargain",
+        "English Definition": "something bought for a lower price than expected",
+        "POS": "n",
+        "J Translation": "バーゲン； 安売り"
+    },
+    {
+        "Meanings": "beam",
+        "English Definition": "a long piece of metal or wood; a line of light or energy",
+        "POS": "n",
+        "J Translation": "梁（はり）；光線；ビーム"
+    },
+    {
+        "Meanings": "behavioral",
+        "English Definition": "concerning the way people act",
+        "POS": "adj",
+        "J Translation": "行動の"
+    },
+    {
+        "Meanings": "candidate",
+        "English Definition": "a person who is selected by others as a contestant for an office or honor",
+        "POS": "n",
+        "J Translation": "候補者"
+    },
+    {
+        "Meanings": "cattle",
+        "English Definition": "cows or bulls on a farm",
+        "POS": "n",
+        "J Translation": "畜牛"
+    },
+    {
+        "Meanings": "circulate",
+        "English Definition": "to go round continuously",
+        "POS": "verb",
+        "J Translation": "循環する"
+    },
+    {
+        "Meanings": "circulation",
+        "English Definition": "the movement of blood through the body",
+        "POS": "n",
+        "J Translation": "循環"
+    },
+    {
+        "Meanings": "civilization",
+        "English Definition": "a highly developed society",
+        "POS": "n",
+        "J Translation": "文明"
+    },
+    {
+        "Meanings": "clarify",
+        "English Definition": "to state again so that a point is clearer",
+        "POS": "verb",
+        "J Translation": "明確にする"
+    },
+    {
+        "Meanings": "client",
+        "English Definition": "person paying for professional services",
+        "POS": "n",
+        "J Translation": "依頼人；顧客"
+    },
+    {
+        "Meanings": "clinic",
+        "English Definition": "local medical center; department of a hospital",
+        "POS": "n",
+        "J Translation": "診療所"
+    },
+    {
+        "Meanings": "colonial",
+        "English Definition": "of a system where one country controls another",
+        "POS": "adj",
+        "J Translation": "植民地の"
+    },
+    {
+        "Meanings": "colony",
+        "English Definition": "country or settlement controlled by another country",
+        "POS": "n",
+        "J Translation": "植民地"
+    },
+    {
+        "Meanings": "communicative",
+        "English Definition": "talkative; cooperative in giving information",
+        "POS": "adj",
+        "J Translation": "コミュニケーションのための；情報伝達の"
+    },
+    {
+        "Meanings": "communist",
+        "English Definition": "believer in communism",
+        "POS": "adj",
+        "J Translation": "共産主義者"
+    },
+    {
+        "Meanings": "compensate",
+        "English Definition": "to give (money) to as a form of correcting a loss",
+        "POS": "verb",
+        "J Translation": "補償する"
+    },
+    {
+        "Meanings": "competent",
+        "English Definition": "fully qualified or capable of doing",
+        "POS": "adj",
+        "J Translation": "有能な"
+    },
+    {
+        "Meanings": "composer",
+        "English Definition": "a music writer",
+        "POS": "n",
+        "J Translation": "作曲家"
+    },
+    {
+        "Meanings": "conceive",
+        "English Definition": "to think of, or create, something new (e.g. idea, child)",
+        "POS": "verb",
+        "J Translation": "思い付く；妊娠する"
+    },
+    {
+        "Meanings": "conception",
+        "English Definition": "an idea or notion; the first stage in pregnancy",
+        "POS": "n",
+        "J Translation": "概念"
+    },
+    {
+        "Meanings": "conceptual",
+        "English Definition": "characterized by concepts or the forming of concepts",
+        "POS": "adj",
+        "J Translation": "概念の"
+    },
+    {
+        "Meanings": "conduction",
+        "English Definition": "the transmission of heat, electricity or sound",
+        "POS": "n",
+        "J Translation": "伝導"
+    },
+    {
+        "Meanings": "conference",
+        "English Definition": "a meeting or series of meetings for discussion and exchange of information",
+        "POS": "n",
+        "J Translation": "会議"
+    },
+    {
+        "Meanings": "confine",
+        "English Definition": "to keep something or someone within a limited area so it cannot escape",
+        "POS": "verb",
+        "J Translation": "閉じ込める"
+    },
+    {
+        "Meanings": "consent",
+        "English Definition": "to agree or allow to do something",
+        "POS": "verb",
+        "J Translation": "承諾，同意する"
+    },
+    {
+        "Meanings": "conservation",
+        "English Definition": "the management of land and water in ways that stop it from being damaged",
+        "POS": "n",
+        "J Translation": "保全"
+    },
+    {
+        "Meanings": "conserve",
+        "English Definition": "to keep safe",
+        "POS": "verb",
+        "J Translation": "保存する；節約する"
+    },
+    {
+        "Meanings": "constitution",
+        "English Definition": "a law determining the fundamental political principles of a government",
+        "POS": "n",
+        "J Translation": "憲法；構成"
+    },
+    {
+        "Meanings": "constrain",
+        "English Definition": "To make someone do something by strong persuasion or force",
+        "POS": "verb",
+        "J Translation": "強制する; 抑制する"
+    },
+    {
+        "Meanings": "consultation",
+        "English Definition": "a discussion between people to make a decision",
+        "POS": "n",
+        "J Translation": "相談；協議"
+    },
+    {
+        "Meanings": "consumption",
+        "English Definition": "how much is spent on things; the process of eating and drinking",
+        "POS": "n",
+        "J Translation": "消費"
+    },
+    {
+        "Meanings": "continent",
+        "English Definition": "one of the very large areas of land on Earth that are usually divided into several countries",
+        "POS": "n",
+        "J Translation": "大陸"
+    },
+    {
+        "Meanings": "contradict",
+        "English Definition": "to disagree, to say the opposite is true",
+        "POS": "verb",
+        "J Translation": "矛盾する；否定する"
+    },
+    {
+        "Meanings": "contradiction",
+        "English Definition": "the act of saying that something is not true or very different",
+        "POS": "n",
+        "J Translation": "矛盾；否定"
+    },
+    {
+        "Meanings": "contradictory",
+        "English Definition": "containing information, statements, or beliefs that do not agree with one another",
+        "POS": "adj",
+        "J Translation": "矛盾した"
+    },
+    {
+        "Meanings": "controversy",
+        "English Definition": "strong public disagreement about something",
+        "POS": "n",
+        "J Translation": "論争"
+    },
+    {
+        "Meanings": "coordinate",
+        "English Definition": "to bring order and organization to something; in maths: any of the magnitudes that serve to define the position of a point or line by reference to a fixed figure or system of lines.",
+        "POS": "verb",
+        "J Translation": "調整する； まとめる"
+    },
+    {
+        "Meanings": "coordination",
+        "English Definition": "organizing people or things to make them work together effectively",
+        "POS": "n",
+        "J Translation": "調整"
+    },
+    {
+        "Meanings": "correlate",
+        "English Definition": "to show the relationship between two items or events.",
+        "POS": "verb",
+        "J Translation": "相関がある"
+    },
+    {
+        "Meanings": "correlation",
+        "English Definition": "a measure of the relationship between two variables",
+        "POS": "n",
+        "J Translation": "相互関係"
+    },
+    {
+        "Meanings": "correspondence",
+        "English Definition": "Communication by letters, emails or text messages",
+        "POS": "n",
+        "J Translation": "文通； 通信"
+    },
+    {
+        "Meanings": "corruption",
+        "English Definition": "actions that are illegal or morally questionable, often performed by a person in a position of power",
+        "POS": "n",
+        "J Translation": "汚職；腐敗；破損"
+    },
+    {
+        "Meanings": "criteria",
+        "English Definition": "standard used to make judgments or decisions",
+        "POS": "n",
+        "J Translation": "基準"
+    },
+    {
+        "Meanings": "critically",
+        "English Definition": "in a way that is serious or dangerous; vitally",
+        "POS": "adv",
+        "J Translation": "批判的に"
+    },
+    {
+        "Meanings": "crystal",
+        "English Definition": "a solid formed by the solidification of a chemical",
+        "POS": "n",
+        "J Translation": "結晶"
+    },
+    {
+        "Meanings": "curriculum",
+        "English Definition": "group of related courses in a school or college",
+        "POS": "n",
+        "J Translation": "カリキュラム"
+    },
+    {
+        "Meanings": "cyclic",
+        "English Definition": "a series of regular and repeated actions",
+        "POS": "adj",
+        "J Translation": "循環の；環式の"
+    },
+    {
+        "Meanings": "damp",
+        "English Definition": "a little wet",
+        "POS": "adj",
+        "J Translation": "湿った"
+    },
+    {
+        "Meanings": "deliberately",
+        "English Definition": "in a careful, considered manner",
+        "POS": "adv",
+        "J Translation": "意図的に"
+    },
+    {
+        "Meanings": "demonstrator",
+        "English Definition": "person who shows how something works e.g. product",
+        "POS": "n",
+        "J Translation": "証明者"
+    },
+    {
+        "Meanings": "dense",
+        "English Definition": "very thick and difficult to see/get through",
+        "POS": "adj",
+        "J Translation": "濃い；密集した"
+    },
+    {
+        "Meanings": "depict",
+        "English Definition": "to describe someone or something",
+        "POS": "verb",
+        "J Translation": "描写する"
+    },
+    {
+        "Meanings": "derivative",
+        "English Definition": "something that has developed or been obtained from something else",
+        "POS": "adj",
+        "J Translation": "派生物；派生語，派生した"
+    },
+    {
+        "Meanings": "dictate",
+        "English Definition": "to speak while another person (or computer) writes the words down",
+        "POS": "verb",
+        "J Translation": "書き取らせる；口述する"
+    },
+    {
+        "Meanings": "dimensional",
+        "English Definition": "having parts that extent in a number of directions",
+        "POS": "adj",
+        "J Translation": "次元の"
+    },
+    {
+        "Meanings": "disability",
+        "English Definition": "a condition that limits a person's ability to do something",
+        "POS": "n",
+        "J Translation": "身体障害"
+    },
+    {
+        "Meanings": "discharge",
+        "English Definition": "to release someone or something",
+        "POS": "verb",
+        "J Translation": "発砲；排出；解任，排出する；放電する"
+    },
+    {
+        "Meanings": "discourse",
+        "English Definition": "talk, conversation",
+        "POS": "n",
+        "J Translation": "談話"
+    },
+    {
+        "Meanings": "discrimination",
+        "English Definition": "the ability to recognize the difference between things; treating different groups of people unfairly",
+        "POS": "n",
+        "J Translation": "差別；識別"
+    },
+    {
+        "Meanings": "distribution",
+        "English Definition": "- in statistics: an arrangement of values showing frequency of occurrence - in engineering: the way in which the fuel-air mixture is supplied to each cylinder of an engine - in commerce: delivery of products or services.",
+        "POS": "n",
+        "J Translation": "配布；分布；流通"
+    },
+    {
+        "Meanings": "diverse",
+        "English Definition": "very different from each other",
+        "POS": "adj",
+        "J Translation": "多様な"
+    },
+    {
+        "Meanings": "dominant",
+        "English Definition": "strongest",
+        "POS": "adj",
+        "J Translation": "支配的な"
+    },
+    {
+        "Meanings": "domination",
+        "English Definition": "authority; rule; control",
+        "POS": "n",
+        "J Translation": "支配"
+    },
+    {
+        "Meanings": "dose",
+        "English Definition": "an amount of medicine to be taken at any one time",
+        "POS": "n",
+        "J Translation": "服用量"
+    },
+    {
+        "Meanings": "drain",
+        "English Definition": "a pipe that removes water, or other liquids",
+        "POS": "n",
+        "J Translation": "配水管，排出する"
+    },
+    {
+        "Meanings": "drift",
+        "English Definition": "to move slowly",
+        "POS": "n",
+        "J Translation": "漂流，漂う"
+    },
+    {
+        "Meanings": "effectiveness",
+        "English Definition": "the degree of how well something works or is done",
+        "POS": "n",
+        "J Translation": "有効性"
+    },
+    {
+        "Meanings": "elaborate",
+        "English Definition": "to be made or done with great care or with much detail",
+        "POS": "adj",
+        "J Translation": "手の込んだ"
+    },
+    {
+        "Meanings": "elevate",
+        "English Definition": "to make something higher",
+        "POS": "verb",
+        "J Translation": "高くあげる"
+    },
+    {
+        "Meanings": "elevation",
+        "English Definition": "the height of a place",
+        "POS": "n",
+        "J Translation": "高度"
+    },
+    {
+        "Meanings": "elimination",
+        "English Definition": "the act or process of removing or being removed",
+        "POS": "n",
+        "J Translation": "除去"
+    },
+    {
+        "Meanings": "elite",
+        "English Definition": "important people of high status",
+        "POS": "n",
+        "J Translation": "エリート、上流階級、幹部"
+    },
+    {
+        "Meanings": "emergence",
+        "English Definition": "the process of emerging/coming out",
+        "POS": "n",
+        "J Translation": "出現"
+    },
+    {
+        "Meanings": "emission",
+        "English Definition": "a substance (e.g. gas) released into the air",
+        "POS": "n",
+        "J Translation": "放出；排出量"
+    },
+    {
+        "Meanings": "emit",
+        "English Definition": "formal to release or send out (a gas, etc)",
+        "POS": "verb",
+        "J Translation": "出す；発する"
+    },
+    {
+        "Meanings": "enforcement",
+        "English Definition": "the act or process of making sure that rules are followed",
+        "POS": "n",
+        "J Translation": "施行"
+    },
+    {
+        "Meanings": "essentially",
+        "English Definition": "basically, primarily",
+        "POS": "adv",
+        "J Translation": "本質的に"
+    },
+    {
+        "Meanings": "estimation",
+        "English Definition": "judgment; opinion; guess at the value of",
+        "POS": "n",
+        "J Translation": "推定"
+    },
+    {
+        "Meanings": "evident",
+        "English Definition": "plain, clear",
+        "POS": "adj",
+        "J Translation": "明らかな"
+    },
+    {
+        "Meanings": "evolutionary",
+        "English Definition": "concerning evolution",
+        "POS": "adj",
+        "J Translation": "進化の"
+    },
+    {
+        "Meanings": "execute",
+        "English Definition": "To kill someone, usually as an official punishment",
+        "POS": "verb",
+        "J Translation": "死刑執行する"
+    },
+    {
+        "Meanings": "execution",
+        "English Definition": "killing a person as a (usually legal) punishment",
+        "POS": "n",
+        "J Translation": "処刑"
+    },
+    {
+        "Meanings": "explicit",
+        "English Definition": "definite; clearly stated; specific",
+        "POS": "adj",
+        "J Translation": "明示的な"
+    },
+    {
+        "Meanings": "explicitly",
+        "English Definition": "clearly; specifically",
+        "POS": "adv",
+        "J Translation": "明示的に"
+    },
+    {
+        "Meanings": "exploit",
+        "English Definition": "to use something or someone selfishly or unethically",
+        "POS": "verb",
+        "J Translation": "不当に利用する；搾取する"
+    },
+    {
+        "Meanings": "fabric",
+        "English Definition": "cloth",
+        "POS": "n",
+        "J Translation": "織物"
+    },
+    {
+        "Meanings": "facilitate",
+        "English Definition": "To make an action or process easier",
+        "POS": "verb",
+        "J Translation": "促進する"
+    },
+    {
+        "Meanings": "faculty",
+        "English Definition": "the teachers in a school or college",
+        "POS": "n",
+        "J Translation": "学部；教授陣；能力"
+    },
+    {
+        "Meanings": "fertility",
+        "English Definition": "the state of a female being able to produce young",
+        "POS": "n",
+        "J Translation": "肥沃；繁殖力"
+    },
+    {
+        "Meanings": "fiber",
+        "English Definition": "a thin, threadlike part of an animal hair or plant tissue; an artificial thread; body cells that form muscles and nerves; a food substance",
+        "POS": "n",
+        "J Translation": "繊維 ；ファイバー"
+    },
+    {
+        "Meanings": "flesh",
+        "English Definition": "the soft parts of the body",
+        "POS": "n",
+        "J Translation": "肉"
+    },
+    {
+        "Meanings": "flexibility",
+        "English Definition": "the quality of being able to be bent or stretched",
+        "POS": "n",
+        "J Translation": "柔軟性"
+    },
+    {
+        "Meanings": "formally",
+        "English Definition": "in a formal manner; officially",
+        "POS": "adv",
+        "J Translation": "正式に"
+    },
+    {
+        "Meanings": "formulation",
+        "English Definition": "the development of a plan, system, or proposal",
+        "POS": "n",
+        "J Translation": "形成；策定"
+    },
+    {
+        "Meanings": "founds",
+        "English Definition": "to be based on, started or created by",
+        "POS": "verb",
+        "J Translation": "設立する"
+    },
+    {
+        "Meanings": "fundamentally",
+        "English Definition": "in a basic and important way",
+        "POS": "adv",
+        "J Translation": "根本的に"
+    },
+    {
+        "Meanings": "genetically",
+        "English Definition": "caused or controlled, or by genes",
+        "POS": "adv",
+        "J Translation": "遺伝的に"
+    },
+    {
+        "Meanings": "genetics",
+        "English Definition": "the scientific study of genes, how a living things develop between generations",
+        "POS": "n pl.",
+        "J Translation": "遺伝学"
+    },
+    {
+        "Meanings": "globalization",
+        "English Definition": "international spread of something, e.g. company",
+        "POS": "n",
+        "J Translation": "世界化"
+    },
+    {
+        "Meanings": "goods",
+        "English Definition": "general term for things that are bought or sold",
+        "POS": "n pl.",
+        "J Translation": "商品"
+    },
+    {
+        "Meanings": "grasp",
+        "English Definition": "to grip something firmly with the hands",
+        "POS": "verb",
+        "J Translation": "握る；把握する，握ること"
+    },
+    {
+        "Meanings": "gravity",
+        "English Definition": "the force that makes things fall down towards the ground",
+        "POS": "n",
+        "J Translation": "重力"
+    },
+    {
+        "Meanings": "gross",
+        "English Definition": "total amount; extreme or unreasonable",
+        "POS": "adj",
+        "J Translation": "気持ち悪い"
+    },
+    {
+        "Meanings": "hip",
+        "English Definition": "the upper part of the leg",
+        "POS": "n",
+        "J Translation": "臀部；腰"
+    },
+    {
+        "Meanings": "ideology",
+        "English Definition": "ideas or beliefs which form theory and policy",
+        "POS": "n",
+        "J Translation": "イデオロギー"
+    },
+    {
+        "Meanings": "immune",
+        "English Definition": "not affected by something, such as a disease",
+        "POS": "adj",
+        "J Translation": "免疫"
+    },
+    {
+        "Meanings": "impact",
+        "English Definition": "a striking effect or result to hit with force",
+        "POS": "n",
+        "J Translation": "影響，影響を与える"
+    },
+    {
+        "Meanings": "independently",
+        "English Definition": "in a manner being free from the control of another",
+        "POS": "adv",
+        "J Translation": "独立して"
+    },
+    {
+        "Meanings": "inevitably",
+        "English Definition": "happening with complete certainty",
+        "POS": "adv",
+        "J Translation": "必然的に"
+    },
+    {
+        "Meanings": "infect",
+        "English Definition": "to give someone a disease",
+        "POS": "verb",
+        "J Translation": "感染する"
+    },
+    {
+        "Meanings": "infectious",
+        "English Definition": "capable of causing infection, by the spreading of a bacteria or virus to others",
+        "POS": "adj",
+        "J Translation": "伝染性の"
+    },
+    {
+        "Meanings": "initiate",
+        "English Definition": "to start",
+        "POS": "verb",
+        "J Translation": "始める"
+    },
+    {
+        "Meanings": "initiation",
+        "English Definition": "a formal entry into an organization, position or office",
+        "POS": "n",
+        "J Translation": "開始"
+    },
+    {
+        "Meanings": "inject",
+        "English Definition": "to put medicine into someone with a syringe",
+        "POS": "verb",
+        "J Translation": "注入する"
+    },
+    {
+        "Meanings": "injection",
+        "English Definition": "a way to put (inject) a drug or another substance into your body",
+        "POS": "n",
+        "J Translation": "注射；注入"
+    },
+    {
+        "Meanings": "insert",
+        "English Definition": "to put something in something",
+        "POS": "verb",
+        "J Translation": "挿入する"
+    },
+    {
+        "Meanings": "instinct",
+        "English Definition": "the natural way a person or animal thinks or behaves, knowledge that is not learned",
+        "POS": "n",
+        "J Translation": "本能"
+    },
+    {
+        "Meanings": "integration",
+        "English Definition": "act of bringing things together into a whole",
+        "POS": "n",
+        "J Translation": "統合"
+    },
+    {
+        "Meanings": "interact",
+        "English Definition": "an action that is answered by a reaction, verbal or physical",
+        "POS": "verb",
+        "J Translation": "相互に作用する"
+    },
+    {
+        "Meanings": "interfere",
+        "English Definition": "to get involved in the business of others without invitation",
+        "POS": "verb",
+        "J Translation": "干渉する"
+    },
+    {
+        "Meanings": "intervene",
+        "English Definition": "to get involved, to prevent trouble",
+        "POS": "verb",
+        "J Translation": "介入する"
+    },
+    {
+        "Meanings": "invasion",
+        "English Definition": "an entry into a place for the purpose of taking control",
+        "POS": "n",
+        "J Translation": "侵略"
+    },
+    {
+        "Meanings": "irrelevant",
+        "English Definition": "not important, not related to the topic",
+        "POS": "adj",
+        "J Translation": "無関係の"
+    },
+    {
+        "Meanings": "justification",
+        "English Definition": "a reason or fact that explains why something happens or exists",
+        "POS": "n",
+        "J Translation": "正当化"
+    },
+    {
+        "Meanings": "lecturer",
+        "English Definition": "a junior teacher in university",
+        "POS": "n",
+        "J Translation": "講師"
+    },
+    {
+        "Meanings": "legend",
+        "English Definition": "old story generally believed, although not proven",
+        "POS": "n",
+        "J Translation": "伝説"
+    },
+    {
+        "Meanings": "legitimate",
+        "English Definition": "being reasonable and sound",
+        "POS": "adj",
+        "J Translation": "正当な；合法な"
+    },
+    {
+        "Meanings": "liable",
+        "English Definition": "legally responsible for something",
+        "POS": "adj",
+        "J Translation": "法的責任がある"
+    },
+    {
+        "Meanings": "logical",
+        "English Definition": "sensible; reasonable",
+        "POS": "adj",
+        "J Translation": "論理的な"
+    },
+    {
+        "Meanings": "magnetic",
+        "English Definition": "having the properties of a magnet, being able to attract.",
+        "POS": "adj",
+        "J Translation": "磁気の"
+    },
+    {
+        "Meanings": "manipulate",
+        "English Definition": "to control something or someone",
+        "POS": "verb",
+        "J Translation": "操作する"
+    },
+    {
+        "Meanings": "manipulation",
+        "English Definition": "the act of controlling something or someone",
+        "POS": "n",
+        "J Translation": "操作"
+    },
+    {
+        "Meanings": "manual",
+        "English Definition": "needing the use of physical strength or work; a book of information or instructions",
+        "POS": "adj",
+        "J Translation": "手引書；マニュアル"
+    },
+    {
+        "Meanings": "marginal",
+        "English Definition": "very small; on the edge; not important",
+        "POS": "adj",
+        "J Translation": "縁の；余白の"
+    },
+    {
+        "Meanings": "mechanic",
+        "English Definition": "a person who looks after machinery",
+        "POS": "n",
+        "J Translation": "機械工"
+    },
+    {
+        "Meanings": "mechanical",
+        "English Definition": "using or having to do with machines",
+        "POS": "adj",
+        "J Translation": "機械的な"
+    },
+    {
+        "Meanings": "media",
+        "English Definition": "means of communication (tv, newspapers, internet)",
+        "POS": "n",
+        "J Translation": "メディア；マスコミ"
+    },
+    {
+        "Meanings": "merge",
+        "English Definition": "to cause two or more things to become combined into one",
+        "POS": "verb",
+        "J Translation": "合併する"
+    },
+    {
+        "Meanings": "methodology",
+        "English Definition": "system of practices or techniques to show how to do tasks",
+        "POS": "n",
+        "J Translation": "方法論"
+    },
+    {
+        "Meanings": "migrate",
+        "English Definition": "to move from place to another to live or work",
+        "POS": "verb",
+        "J Translation": "移動する; 移住する"
+    },
+    {
+        "Meanings": "migration",
+        "English Definition": "the process by which people or animals move to another place",
+        "POS": "n",
+        "J Translation": "移動；移住"
+    },
+    {
+        "Meanings": "missile",
+        "English Definition": "a weapon, usually thrown, shot or launched",
+        "POS": "n",
+        "J Translation": "ミサイル"
+    },
+    {
+        "Meanings": "mobility",
+        "English Definition": "the ability to move",
+        "POS": "n",
+        "J Translation": "動きやすさ；移動性"
+    },
+    {
+        "Meanings": "modification",
+        "English Definition": "a small change to a machine, system, or plan",
+        "POS": "n",
+        "J Translation": "変更"
+    },
+    {
+        "Meanings": "molecular",
+        "English Definition": "about or caused by molecules",
+        "POS": "adj",
+        "J Translation": "分子の"
+    },
+    {
+        "Meanings": "molecule",
+        "English Definition": "two or more atoms chemically combined",
+        "POS": "n",
+        "J Translation": "分子"
+    },
+    {
+        "Meanings": "morality",
+        "English Definition": "beliefs or ideas about what is right and wrong",
+        "POS": "n",
+        "J Translation": "道徳；倫理"
+    },
+    {
+        "Meanings": "mortality",
+        "English Definition": "the quality or state of being human and being able to die",
+        "POS": "n",
+        "J Translation": "死亡率"
+    },
+    {
+        "Meanings": "motive",
+        "English Definition": "a reason for doing something",
+        "POS": "n",
+        "J Translation": "動機"
+    },
+    {
+        "Meanings": "myth",
+        "English Definition": "a popular belief that is false or unsupported by fact",
+        "POS": "n",
+        "J Translation": "神話"
+    },
+    {
+        "Meanings": "naked",
+        "English Definition": "not wearing any clothes; without covering",
+        "POS": "adj",
+        "J Translation": "裸の"
+    },
+    {
+        "Meanings": "neutral",
+        "English Definition": "not involved; without strong feeling; without electrical charge; not acidic or akaline",
+        "POS": "adj",
+        "J Translation": "中立の"
+    },
+    {
+        "Meanings": "objection",
+        "English Definition": "reason for not supporting or agreeing with a plan",
+        "POS": "n",
+        "J Translation": "異議"
+    },
+    {
+        "Meanings": "obtain",
+        "English Definition": "To be given or to earn something through efforts",
+        "POS": "verb",
+        "J Translation": "得る"
+    },
+    {
+        "Meanings": "occupation",
+        "English Definition": "a career or regular job",
+        "POS": "n",
+        "J Translation": "職業；占有"
+    },
+    {
+        "Meanings": "oral",
+        "English Definition": "by mouth",
+        "POS": "adj",
+        "J Translation": "口頭の"
+    },
+    {
+        "Meanings": "organ",
+        "English Definition": "large wind instrument similar to a piano",
+        "POS": "n",
+        "J Translation": "オルガン"
+    },
+    {
+        "Meanings": "orientation",
+        "English Definition": "the ability to locate oneself in your environment with reference to time, place, and people",
+        "POS": "n",
+        "J Translation": "適応；オリエンテーション；方向性；位置"
+    },
+    {
+        "Meanings": "peasant",
+        "English Definition": "a person of low social status, usually who works on a farm",
+        "POS": "n",
+        "J Translation": "小作人"
+    },
+    {
+        "Meanings": "philosopher",
+        "English Definition": "a person who studies ideas about things such as the meaning of life and truth",
+        "POS": "n",
+        "J Translation": "哲学者"
+    },
+    {
+        "Meanings": "philosophical",
+        "English Definition": "concerning philosophy",
+        "POS": "adj",
+        "J Translation": "哲学的な"
+    },
+    {
+        "Meanings": "powder",
+        "English Definition": "a dry substance made up of very small pieces",
+        "POS": "n",
+        "J Translation": "粉末"
+    },
+    {
+        "Meanings": "practitioner",
+        "English Definition": "a person working in a profession, such as medicine",
+        "POS": "n",
+        "J Translation": "（専門職・技術などの）開業者；（特に）開業医"
+    },
+    {
+        "Meanings": "precede",
+        "English Definition": "to go before",
+        "POS": "verb",
+        "J Translation": "先行する"
+    },
+    {
+        "Meanings": "prediction",
+        "English Definition": "a statement of what will happen next.",
+        "POS": "n",
+        "J Translation": "予測"
+    },
+    {
+        "Meanings": "probe",
+        "English Definition": "a system or piece of equipment that is used to get information; in medicine: a long thin instrument used for looking inside your body",
+        "POS": "verb",
+        "J Translation": "探査；プローブ，探査する"
+    },
+    {
+        "Meanings": "profound",
+        "English Definition": "showing a lot of deep knowledge or thought",
+        "POS": "adj",
+        "J Translation": "深遠な"
+    },
+    {
+        "Meanings": "prominent",
+        "English Definition": "being important or well known",
+        "POS": "adj",
+        "J Translation": "著名な"
+    },
+    {
+        "Meanings": "psychiatric",
+        "English Definition": "concerning or used in psychiatry",
+        "POS": "adj",
+        "J Translation": "精神科の"
+    },
+    {
+        "Meanings": "psychologist",
+        "English Definition": "an expert who studies the mind and behavior",
+        "POS": "n",
+        "J Translation": "心理学者"
+    },
+    {
+        "Meanings": "psychology",
+        "English Definition": "the study of the mind and how it affects behaviour",
+        "POS": "n",
+        "J Translation": "心理学"
+    },
+    {
+        "Meanings": "publish",
+        "English Definition": "to prepare a book, journal, magazine and make it available",
+        "POS": "verb",
+        "J Translation": "出版する；発表する"
+    },
+    {
+        "Meanings": "puzzle",
+        "English Definition": "a problem that requires thought and skill to be solved",
+        "POS": "n",
+        "J Translation": "困らせる；当惑する，パズル"
+    },
+    {
+        "Meanings": "quantitative",
+        "English Definition": "the describing or measuring of quantity.",
+        "POS": "adj",
+        "J Translation": "量的な"
+    },
+    {
+        "Meanings": "radiation",
+        "English Definition": "energy that is radiated or transmitted in the form of rays, waves or particles.",
+        "POS": "n",
+        "J Translation": "放射線"
+    },
+    {
+        "Meanings": "randomize",
+        "English Definition": "to arrange in a random order",
+        "POS": "verb",
+        "J Translation": "無作為化する"
+    },
+    {
+        "Meanings": "randomly",
+        "English Definition": "with no pattern or clear purpose; by chance",
+        "POS": "adv",
+        "J Translation": "無作為に"
+    },
+    {
+        "Meanings": "rational",
+        "English Definition": "sensible; based on facts",
+        "POS": "adj",
+        "J Translation": "合理的な"
+    },
+    {
+        "Meanings": "rationality",
+        "English Definition": "being able to think clearly",
+        "POS": "n",
+        "J Translation": "合理性"
+    },
+    {
+        "Meanings": "reconstruct",
+        "English Definition": "to rebuild something after it has been destroyed",
+        "POS": "verb",
+        "J Translation": "再構築する"
+    },
+    {
+        "Meanings": "regime",
+        "English Definition": "a system of management; a form of government",
+        "POS": "n",
+        "J Translation": "政権；体制"
+    },
+    {
+        "Meanings": "reinforce",
+        "English Definition": "to strengthen",
+        "POS": "verb",
+        "J Translation": "強化する；補強する"
+    },
+    {
+        "Meanings": "rejection",
+        "English Definition": "the act of refusing to consider or believe something",
+        "POS": "n",
+        "J Translation": "拒絶"
+    },
+    {
+        "Meanings": "render",
+        "English Definition": "to cause someone or something to behave in a particular way, or to enter into a particular condition",
+        "POS": "verb",
+        "J Translation": "〜の状態にする；与える"
+    },
+    {
+        "Meanings": "reproduce",
+        "English Definition": "to make a copy of something",
+        "POS": "verb",
+        "J Translation": "再生する；繁殖する"
+    },
+    {
+        "Meanings": "reproduction",
+        "English Definition": "the process that produces the next generation",
+        "POS": "n",
+        "J Translation": "再生；生殖作用"
+    },
+    {
+        "Meanings": "republic",
+        "English Definition": "a country governed by elected representatives",
+        "POS": "n",
+        "J Translation": "共和国"
+    },
+    {
+        "Meanings": "resemble",
+        "English Definition": "to be similar to someone or something in looks or manner",
+        "POS": "verb",
+        "J Translation": "似ている"
+    },
+    {
+        "Meanings": "revolutionary",
+        "English Definition": "a significant change in something",
+        "POS": "adj",
+        "J Translation": "革新的な"
+    },
+    {
+        "Meanings": "rhythm",
+        "English Definition": "a pattern of sound and beats in music",
+        "POS": "n",
+        "J Translation": "リズム"
+    },
+    {
+        "Meanings": "ritual",
+        "English Definition": "performed as part of a formal ceremony",
+        "POS": "n",
+        "J Translation": "儀式"
+    },
+    {
+        "Meanings": "scatter",
+        "English Definition": "to make things separate and go in different directions",
+        "POS": "verb",
+        "J Translation": "まき散らす"
+    },
+    {
+        "Meanings": "sensible",
+        "English Definition": "having the ability to judge something reasonably",
+        "POS": "adj",
+        "J Translation": "賢明な；分別のある"
+    },
+    {
+        "Meanings": "sensitivity",
+        "English Definition": "being sensitive; in physiology: the ability of an organism or part of an organism to react to stimuli; in electronics: the ability of a radio device to react to incoming signals",
+        "POS": "n",
+        "J Translation": "感受性；感度"
+    },
+    {
+        "Meanings": "shortly",
+        "English Definition": "quickly; soon",
+        "POS": "adv",
+        "J Translation": "まもなく"
+    },
+    {
+        "Meanings": "simultaneously",
+        "English Definition": "at the same time as",
+        "POS": "adv",
+        "J Translation": "同時に"
+    },
+    {
+        "Meanings": "sin",
+        "English Definition": "a bad act; to do something bad",
+        "POS": "n",
+        "J Translation": "罪"
+    },
+    {
+        "Meanings": "sophisticate",
+        "English Definition": "to make more complex or refined",
+        "POS": "verb",
+        "J Translation": "洗練させる"
+    },
+    {
+        "Meanings": "sponsorship",
+        "English Definition": "money given to a student to pay for education",
+        "POS": "n",
+        "J Translation": "資金援助"
+    },
+    {
+        "Meanings": "statistical",
+        "English Definition": "about statistics",
+        "POS": "adj",
+        "J Translation": "統計的"
+    },
+    {
+        "Meanings": "statistically",
+        "English Definition": "with respect to statistics",
+        "POS": "adv",
+        "J Translation": "統計的に"
+    },
+    {
+        "Meanings": "statistics",
+        "English Definition": "a type of mathematics that provide specific information or prove something",
+        "POS": "n pl.",
+        "J Translation": "統計"
+    },
+    {
+        "Meanings": "strategic",
+        "English Definition": "concerned with strategy; well thought out",
+        "POS": "adj",
+        "J Translation": "戦略的な"
+    },
+    {
+        "Meanings": "strictly",
+        "English Definition": "restricted to something",
+        "POS": "adv",
+        "J Translation": "厳密に"
+    },
+    {
+        "Meanings": "substitution",
+        "English Definition": "a person or thing acting or serving in place of another; to put (a person or thing) in the place of another.",
+        "POS": "n",
+        "J Translation": "代用；置換"
+    },
+    {
+        "Meanings": "subtle",
+        "English Definition": "difficult to notice, understand, or see",
+        "POS": "adj",
+        "J Translation": "微妙な; 繊細な；巧妙な"
+    },
+    {
+        "Meanings": "sufficiently",
+        "English Definition": "to a degree great enough to do something",
+        "POS": "adv",
+        "J Translation": "十分に"
+    },
+    {
+        "Meanings": "suicide",
+        "English Definition": "the act of purposely killing yourself because you no longer wish to live",
+        "POS": "n",
+        "J Translation": "自殺"
+    },
+    {
+        "Meanings": "superior",
+        "English Definition": "better; higher quality",
+        "POS": "n",
+        "J Translation": "上の，上司"
+    },
+    {
+        "Meanings": "sustainable",
+        "English Definition": "capable of continuing for a long time at the same level; does not damage the environment",
+        "POS": "adj",
+        "J Translation": "持続可能な"
+    },
+    {
+        "Meanings": "swell",
+        "English Definition": "to become larger than normal, often because of injury",
+        "POS": "verb",
+        "J Translation": "膨張する"
+    },
+    {
+        "Meanings": "symbolic",
+        "English Definition": "representing a larger quality",
+        "POS": "adj",
+        "J Translation": "象徴的な；記号の"
+    },
+    {
+        "Meanings": "technically",
+        "English Definition": "in an exact and particular manner",
+        "POS": "adv",
+        "J Translation": "技術的に；専門的に言うと"
+    },
+    {
+        "Meanings": "theorist",
+        "English Definition": "a person who forms new ideas",
+        "POS": "n",
+        "J Translation": "理論家"
+    },
+    {
+        "Meanings": "thereby",
+        "English Definition": "by that means; because of that",
+        "POS": "adv",
+        "J Translation": "それによって"
+    },
+    {
+        "Meanings": "ton",
+        "English Definition": "a unit of weight equal to 907 kilograms",
+        "POS": "n",
+        "J Translation": "トン"
+    },
+    {
+        "Meanings": "transaction",
+        "English Definition": "an exchange; in business this usually involves money",
+        "POS": "n",
+        "J Translation": "取引"
+    },
+    {
+        "Meanings": "transformation",
+        "English Definition": "a complete change in shape or form of something",
+        "POS": "n",
+        "J Translation": "変換"
+    },
+    {
+        "Meanings": "translation",
+        "English Definition": "changing from one form to another. e.g. changing from one language to another",
+        "POS": "n",
+        "J Translation": "翻訳"
+    },
+    {
+        "Meanings": "transmission",
+        "English Definition": "an electronic signal that has been sent by radio waves; a force that has been transferred from one machine to another",
+        "POS": "n",
+        "J Translation": "伝送；通信"
+    },
+    {
+        "Meanings": "transmit",
+        "English Definition": "to broadcast by using electrical signals to a radio or TV",
+        "POS": "verb",
+        "J Translation": "送信する"
+    },
+    {
+        "Meanings": "treaty",
+        "English Definition": "an agreement between nations",
+        "POS": "n",
+        "J Translation": "条約"
+    },
+    {
+        "Meanings": "tremendous",
+        "English Definition": "having great size, excellence, or power",
+        "POS": "adj",
+        "J Translation": "途方もない"
+    },
+    {
+        "Meanings": "tribe",
+        "English Definition": "a racial group united by language, religion and customs",
+        "POS": "n",
+        "J Translation": "部族"
+    },
+    {
+        "Meanings": "ultimate",
+        "English Definition": "happening or coming at the end of process, final",
+        "POS": "adj",
+        "J Translation": "究極の; 根本的な"
+    },
+    {
+        "Meanings": "unity",
+        "English Definition": "being in full agreement; being joined together",
+        "POS": "n",
+        "J Translation": "単一性；統一"
+    },
+    {
+        "Meanings": "utility",
+        "English Definition": "being useful; a public service such as gas, water, or electricity that is used by everyone",
+        "POS": "n",
+        "J Translation": "実用性；公益事業"
+    },
+    {
+        "Meanings": "vague",
+        "English Definition": "not clearly stated",
+        "POS": "adj",
+        "J Translation": "ぼんやりした"
+    },
+    {
+        "Meanings": "valid",
+        "English Definition": "sound; just; well-founded",
+        "POS": "adj",
+        "J Translation": "正当な；有効な"
+    },
+    {
+        "Meanings": "validity",
+        "English Definition": "how true something is; in statistics: the ability of a test to measure what it is intended to measure.",
+        "POS": "n",
+        "J Translation": "妥当性"
+    },
+    {
+        "Meanings": "virtue",
+        "English Definition": "a good quality",
+        "POS": "n",
+        "J Translation": "美徳"
+    },
+    {
+        "Meanings": "weave",
+        "English Definition": "to make something by crossing threads over and under each other",
+        "POS": "verb",
+        "J Translation": "織る"
+    },
+    {
+        "Meanings": "activate",
+        "English Definition": "To make something start working",
+        "POS": "verb",
+        "J Translation": "始動する"
+    },
+    {
+        "Meanings": "acute",
+        "English Definition": "strong; very serious or severe",
+        "POS": "adj",
+        "J Translation": "鋭い；深刻な；急性の"
+    },
+    {
+        "Meanings": "adjacent",
+        "English Definition": "being close or near to a border, wall, or point",
+        "POS": "adj",
+        "J Translation": "隣接した"
+    },
+    {
+        "Meanings": "adverse",
+        "English Definition": "negative or harmful",
+        "POS": "adj",
+        "J Translation": "逆の；不利な"
+    },
+    {
+        "Meanings": "aesthetic",
+        "English Definition": "concerning the sense of artistic beauty",
+        "POS": "adj",
+        "J Translation": "美的な"
+    },
+    {
+        "Meanings": "aluminum",
+        "English Definition": "very light silvery-white metal used to make cans",
+        "POS": "n",
+        "J Translation": "アルミニウム "
+    },
+    {
+        "Meanings": "ancestor",
+        "English Definition": "a person from your family that lived in the past",
+        "POS": "n",
+        "J Translation": "祖先"
+    },
+    {
+        "Meanings": "anthropology",
+        "English Definition": "the study of human origins and the development of society",
+        "POS": "n",
+        "J Translation": "人類学"
+    },
+    {
+        "Meanings": "array",
+        "English Definition": "a large group of people or things; a regular order or arrangement; in maths: a series of figures.",
+        "POS": "n",
+        "J Translation": "配列"
+    },
+    {
+        "Meanings": "arrow",
+        "English Definition": "a symbol to give direction; a long piece of wood shot from a bow",
+        "POS": "n",
+        "J Translation": "矢印"
+    },
+    {
+        "Meanings": "articulate",
+        "English Definition": "to express something clearly using language",
+        "POS": "verb",
+        "J Translation": "考えをはっきり言う"
+    },
+    {
+        "Meanings": "artificial",
+        "English Definition": "not made by people; not created by nature",
+        "POS": "adj",
+        "J Translation": "人工の"
+    },
+    {
+        "Meanings": "auction",
+        "English Definition": "To sell to a person offering the highest price",
+        "POS": "verb",
+        "J Translation": "競売で売る"
+    },
+    {
+        "Meanings": "audio",
+        "English Definition": "concerning sound",
+        "POS": "adj",
+        "J Translation": "音声の"
+    },
+    {
+        "Meanings": "autonomy",
+        "English Definition": "the power to make independent decisions",
+        "POS": "n",
+        "J Translation": "自治権；自立性"
+    },
+    {
+        "Meanings": "barrel",
+        "English Definition": "a round container with curved sides and flat ends",
+        "POS": "n",
+        "J Translation": "樽；バレル"
+    },
+    {
+        "Meanings": "basin",
+        "English Definition": "a sink; a place in a bathroom to wash your face",
+        "POS": "n",
+        "J Translation": "たらい；盆地"
+    },
+    {
+        "Meanings": "biologist",
+        "English Definition": "a scientist who studies living things",
+        "POS": "n",
+        "J Translation": "生物学者"
+    },
+    {
+        "Meanings": "biology",
+        "English Definition": "the study of living things",
+        "POS": "n",
+        "J Translation": "生物学"
+    },
+    {
+        "Meanings": "bizarre",
+        "English Definition": "odd or strange",
+        "POS": "adj",
+        "J Translation": "奇妙な"
+    },
+    {
+        "Meanings": "bonus",
+        "English Definition": "extra money for achieving/exceeding target",
+        "POS": "n pl.",
+        "J Translation": "ボーナス；賞与"
+    },
+    {
+        "Meanings": "bubble",
+        "English Definition": "a small ball of air inside of a liquid",
+        "POS": "n",
+        "J Translation": "泡"
+    },
+    {
+        "Meanings": "bulk",
+        "English Definition": "big size; largeness; heaviness",
+        "POS": "n",
+        "J Translation": "体積； 容積； 多量"
+    },
+    {
+        "Meanings": "bullet",
+        "English Definition": "metal object fired from a gun",
+        "POS": "n",
+        "J Translation": "弾丸"
+    },
+    {
+        "Meanings": "bundle",
+        "English Definition": "a group of things that are tied together",
+        "POS": "n",
+        "J Translation": "束，束ねる"
+    },
+    {
+        "Meanings": "calcium",
+        "English Definition": "a substance important for human and animal health, particularly for making bones and teeth",
+        "POS": "n",
+        "J Translation": "カルシウム"
+    },
+    {
+        "Meanings": "campus",
+        "English Definition": "the site of an institution, such as a university campus",
+        "POS": "n pl.",
+        "J Translation": "キャンパス"
+    },
+    {
+        "Meanings": "capitalism",
+        "English Definition": "economic system based on private ownership of money",
+        "POS": "n",
+        "J Translation": "資本主義"
+    },
+    {
+        "Meanings": "capitalist",
+        "English Definition": "one believing in private ownership of money",
+        "POS": "n",
+        "J Translation": "資本家； 資本主義者"
+    },
+    {
+        "Meanings": "censor",
+        "English Definition": "to remove parts of a book, film or letter for moral, religious, or political reasons",
+        "POS": "n",
+        "J Translation": "検閲官，検閲する"
+    },
+    {
+        "Meanings": "chemistry",
+        "English Definition": "the study of the structure of substances",
+        "POS": "n",
+        "J Translation": "化学"
+    },
+    {
+        "Meanings": "chronic",
+        "English Definition": "over a long time; serious",
+        "POS": "adj",
+        "J Translation": "慢性的な"
+    },
+    {
+        "Meanings": "chunk",
+        "English Definition": "a large bit of something; thick lump",
+        "POS": "n",
+        "J Translation": "大きな塊"
+    },
+    {
+        "Meanings": "cinema",
+        "English Definition": "a place for showing movies",
+        "POS": "n",
+        "J Translation": "映画；映画館"
+    },
+    {
+        "Meanings": "classification",
+        "English Definition": "putting similar items into groups or sets",
+        "POS": "n",
+        "J Translation": "分類"
+    },
+    {
+        "Meanings": "classify",
+        "English Definition": "To arrange things into groups of similar items",
+        "POS": "verb",
+        "J Translation": "分類する"
+    },
+    {
+        "Meanings": "clay",
+        "English Definition": "heavy, sticky earth used to make pottery",
+        "POS": "n",
+        "J Translation": "粘土"
+    },
+    {
+        "Meanings": "click",
+        "English Definition": "to press a computer mouse to do something on a computer",
+        "POS": "verb",
+        "J Translation": "クリックする"
+    },
+    {
+        "Meanings": "clone",
+        "English Definition": "to make an exact copy of a living thing",
+        "POS": "verb",
+        "J Translation": "クローンを作る"
+    },
+    {
+        "Meanings": "closure",
+        "English Definition": "the act of closing something",
+        "POS": "n",
+        "J Translation": "終末"
+    },
+    {
+        "Meanings": "cognitive",
+        "English Definition": "the process of knowing and remembering",
+        "POS": "adj",
+        "J Translation": "認知の"
+    },
+    {
+        "Meanings": "coherent",
+        "English Definition": "(of language/ideas) logical and well-organized",
+        "POS": "adj",
+        "J Translation": "まとまった；理解しやすい"
+    },
+    {
+        "Meanings": "commodity",
+        "English Definition": "Something useful or valuable, usually for sale",
+        "POS": "n",
+        "J Translation": "商品；日用品"
+    },
+    {
+        "Meanings": "compact",
+        "English Definition": "packed together; closely united; small",
+        "POS": "adj",
+        "J Translation": "小型の，圧縮する"
+    },
+    {
+        "Meanings": "comparative",
+        "English Definition": "expressing a difference in degree",
+        "POS": "adj",
+        "J Translation": "比較の"
+    },
+    {
+        "Meanings": "competence",
+        "English Definition": "ability to do something in a fully satisfactory way",
+        "POS": "n",
+        "J Translation": "能力"
+    },
+    {
+        "Meanings": "complement",
+        "English Definition": "something needed to complete or make perfect",
+        "POS": "n",
+        "J Translation": "補足， 補足する； 完全にする"
+    },
+    {
+        "Meanings": "comply",
+        "English Definition": "to act in agreement with another's wishes; to obey a rule",
+        "POS": "verb",
+        "J Translation": "従う"
+    },
+    {
+        "Meanings": "comprehension",
+        "English Definition": "ability to understand",
+        "POS": "n",
+        "J Translation": "理解"
+    },
+    {
+        "Meanings": "configuration",
+        "English Definition": "a shape or outline; a method of arrangement",
+        "POS": "n",
+        "J Translation": "形状"
+    },
+    {
+        "Meanings": "consensus",
+        "English Definition": "a decision that is shared by most of the members of a group",
+        "POS": "n pl.",
+        "J Translation": "合意；コンセンサス"
+    },
+    {
+        "Meanings": "contrary",
+        "English Definition": "different; opposite",
+        "POS": "adj",
+        "J Translation": "逆の，反対"
+    },
+    {
+        "Meanings": "cord",
+        "English Definition": "a long, strong material, thicker than string but not as thick as rope; an electrical wire",
+        "POS": "n",
+        "J Translation": "ひも；コード"
+    },
+    {
+        "Meanings": "credibility",
+        "English Definition": "quality of being believable or deserving of trust",
+        "POS": "n",
+        "J Translation": "信頼性"
+    },
+    {
+        "Meanings": "critique",
+        "English Definition": "a review of the quality of a work",
+        "POS": "n",
+        "J Translation": "批評"
+    },
+    {
+        "Meanings": "crude",
+        "English Definition": "basic or made without skill, such as a crude drawing",
+        "POS": "adj",
+        "J Translation": "原油，自然の；粗雑な"
+    },
+    {
+        "Meanings": "deadline",
+        "English Definition": "a date or time before which something must be done",
+        "POS": "n",
+        "J Translation": "締め切り"
+    },
+    {
+        "Meanings": "decay",
+        "English Definition": "to be slowly broken down by natural processes",
+        "POS": "verb",
+        "J Translation": "腐敗；減衰，腐敗する；崩壊する"
+    },
+    {
+        "Meanings": "defect",
+        "English Definition": "a problem; a fault",
+        "POS": "n",
+        "J Translation": "欠陥"
+    },
+    {
+        "Meanings": "deficiency",
+        "English Definition": "without something that is necessary",
+        "POS": "n",
+        "J Translation": "欠乏"
+    },
+    {
+        "Meanings": "dependence",
+        "English Definition": "relying on someone for (financial) support",
+        "POS": "n",
+        "J Translation": "依存"
+    },
+    {
+        "Meanings": "destination",
+        "English Definition": "the place one is traveling to",
+        "POS": "n",
+        "J Translation": "目的地；宛先"
+    },
+    {
+        "Meanings": "diagnose",
+        "English Definition": "to determine the cause of something, e.g. an illness",
+        "POS": "verb",
+        "J Translation": "診断する"
+    },
+    {
+        "Meanings": "diagnosis",
+        "English Definition": "a judgment by a doctor about a person’s illness",
+        "POS": "n pl.",
+        "J Translation": "診断"
+    },
+    {
+        "Meanings": "diagram",
+        "English Definition": "a drawing intended to explain how something works",
+        "POS": "n",
+        "J Translation": "図"
+    },
+    {
+        "Meanings": "diameter",
+        "English Definition": "the distance across the center of an object",
+        "POS": "n",
+        "J Translation": "直径"
+    },
+    {
+        "Meanings": "diary",
+        "English Definition": "blank book in which you write what you did each day",
+        "POS": "n",
+        "J Translation": "日記"
+    },
+    {
+        "Meanings": "dictionary",
+        "English Definition": "a book with the spellings and meanings of many words",
+        "POS": "n",
+        "J Translation": "辞書"
+    },
+    {
+        "Meanings": "differentiate",
+        "English Definition": "to see or show a difference between things",
+        "POS": "verb",
+        "J Translation": "区別する；差別化する"
+    },
+    {
+        "Meanings": "differentiation",
+        "English Definition": "a discrimination between things as different and distinct",
+        "POS": "n",
+        "J Translation": "差別化；分化"
+    },
+    {
+        "Meanings": "dilemma",
+        "English Definition": "a position in which a person must make difficult choices",
+        "POS": "n",
+        "J Translation": "ジレンマ "
+    },
+    {
+        "Meanings": "dioxide",
+        "English Definition": "an oxide containing two oxides per molecule",
+        "POS": "n",
+        "J Translation": "二酸化"
+    },
+    {
+        "Meanings": "disadvantage",
+        "English Definition": "a negative point; a downside; difficulty",
+        "POS": "n",
+        "J Translation": "不利な点"
+    },
+    {
+        "Meanings": "displacement",
+        "English Definition": "the act of taking the place of something or someone else",
+        "POS": "n",
+        "J Translation": "移動；置換"
+    },
+    {
+        "Meanings": "dissolve",
+        "English Definition": "to melt into a liquid so that a substance mixes with the liquid itself",
+        "POS": "verb",
+        "J Translation": "溶解する"
+    },
+    {
+        "Meanings": "domain",
+        "English Definition": "a field of action, thought or influence; an area of knowledge",
+        "POS": "n",
+        "J Translation": "領域；ドメイン"
+    },
+    {
+        "Meanings": "donor",
+        "English Definition": "a person or group that gives gifts or money to help support an organization or cause",
+        "POS": "n",
+        "J Translation": "寄贈者"
+    },
+    {
+        "Meanings": "duration",
+        "English Definition": "the length of time that something lasts",
+        "POS": "n",
+        "J Translation": "持続；継続期間"
+    },
+    {
+        "Meanings": "dynamic",
+        "English Definition": "always active or changing; in physics: a force related to motion",
+        "POS": "adj",
+        "J Translation": "動的な; 活動的な"
+    },
+    {
+        "Meanings": "ecological",
+        "English Definition": "concerning the environment, plants, or animals",
+        "POS": "adj",
+        "J Translation": "生態学的な"
+    },
+    {
+        "Meanings": "electron",
+        "English Definition": "a negatively charged particle",
+        "POS": "n",
+        "J Translation": "電子"
+    },
+    {
+        "Meanings": "elementary",
+        "English Definition": "basic, simple, or essential",
+        "POS": "adj",
+        "J Translation": "初等の"
+    },
+    {
+        "Meanings": "emperor",
+        "English Definition": "man who rules an empire",
+        "POS": "n",
+        "J Translation": "皇帝"
+    },
+    {
+        "Meanings": "empirical",
+        "English Definition": "based on observation or experiment",
+        "POS": "adj",
+        "J Translation": "実証的な；経験による"
+    },
+    {
+        "Meanings": "entity",
+        "English Definition": "something that is real",
+        "POS": "n",
+        "J Translation": "実体"
+    },
+    {
+        "Meanings": "essence",
+        "English Definition": "the most important part or quality of something",
+        "POS": "n",
+        "J Translation": "本質"
+    },
+    {
+        "Meanings": "ethical",
+        "English Definition": "morally right or wrong",
+        "POS": "adj",
+        "J Translation": "倫理的な"
+    },
+    {
+        "Meanings": "ethics",
+        "English Definition": "the moral principles, standards, and rules for deciding what is right and wrong",
+        "POS": "n pl.",
+        "J Translation": "倫理学；道徳"
+    },
+    {
+        "Meanings": "exit",
+        "English Definition": "a door that you go through to leave a place",
+        "POS": "n",
+        "J Translation": "出口；終了"
+    },
+    {
+        "Meanings": "expertise",
+        "English Definition": "the special knowledge that an expert has",
+        "POS": "n",
+        "J Translation": "専門知識"
+    },
+    {
+        "Meanings": "fever",
+        "English Definition": "a high body temperature",
+        "POS": "n",
+        "J Translation": "熱"
+    },
+    {
+        "Meanings": "fluid",
+        "English Definition": "a material that can easily flow. e.g. water",
+        "POS": "adj",
+        "J Translation": "流体（名）、 流動的な（形）"
+    },
+    {
+        "Meanings": "forum",
+        "English Definition": "meeting where people can openly discuss a subject",
+        "POS": "n",
+        "J Translation": "フォーラム、講演会、座談会"
+    },
+    {
+        "Meanings": "fossil",
+        "English Definition": "a plant or animal that has become rock after many thousands of years",
+        "POS": "n",
+        "J Translation": "化石"
+    },
+    {
+        "Meanings": "fraction",
+        "English Definition": "a part of a whole",
+        "POS": "n",
+        "J Translation": "一部；少量；分数"
+    },
+    {
+        "Meanings": "fracture",
+        "English Definition": "the result of breaking a hard material; a crack",
+        "POS": "n",
+        "J Translation": "骨折，骨折する；砕く"
+    },
+    {
+        "Meanings": "fringe",
+        "English Definition": "the edge of something; such as the decorative edge on a piece of clothing",
+        "POS": "n",
+        "J Translation": "縁；縞（しま）"
+    },
+    {
+        "Meanings": "fusion",
+        "English Definition": "when different styles, ideas or designs combine to form something new; in physics: when atoms combine to produce nuclear energy",
+        "POS": "n",
+        "J Translation": "融合"
+    },
+    {
+        "Meanings": "gauge",
+        "English Definition": "a tool used to measure things",
+        "POS": "n",
+        "J Translation": "計測器，測定する"
+    },
+    {
+        "Meanings": "goat",
+        "English Definition": "small animal with beard and horns",
+        "POS": "n",
+        "J Translation": "ヤギ"
+    },
+    {
+        "Meanings": "graph",
+        "English Definition": "image expressing numerical data in lines or shapes",
+        "POS": "n",
+        "J Translation": "図表；グラフ"
+    },
+    {
+        "Meanings": "grid",
+        "English Definition": "a metal structure with bars that is used to cover a hole",
+        "POS": "n",
+        "J Translation": "格子；送電網"
+    },
+    {
+        "Meanings": "gut",
+        "English Definition": "the parts inside: a human body, animal body or a machine",
+        "POS": "n",
+        "J Translation": "腸"
+    },
+    {
+        "Meanings": "habitat",
+        "English Definition": "the natural place, or type of place, where a plant or animal lives",
+        "POS": "n",
+        "J Translation": "生息地"
+    },
+    {
+        "Meanings": "harvest",
+        "English Definition": "the time of year to bring crops in from the fields",
+        "POS": "n",
+        "J Translation": "収穫"
+    },
+    {
+        "Meanings": "hierarchy",
+        "English Definition": "a system for organizing people or things according to their importance",
+        "POS": "n",
+        "J Translation": "階層；ヒエラルキー"
+    },
+    {
+        "Meanings": "horizon",
+        "English Definition": "the line where the earth or sea meets the sky",
+        "POS": "n",
+        "J Translation": "地平線；水平線；視野；層位"
+    },
+    {
+        "Meanings": "horizontal",
+        "English Definition": "flat or level",
+        "POS": "adj",
+        "J Translation": "水平の"
+    },
+    {
+        "Meanings": "hormone",
+        "English Definition": "a chemical produced by the body to control some function",
+        "POS": "n",
+        "J Translation": "ホルモン"
+    },
+    {
+        "Meanings": "hydrogen",
+        "English Definition": "the lightest of all chemical elements, has no smell or color",
+        "POS": "n",
+        "J Translation": "水素"
+    },
+    {
+        "Meanings": "illusion",
+        "English Definition": "an image that seems real, but is not real",
+        "POS": "n",
+        "J Translation": "幻想"
+    },
+    {
+        "Meanings": "implicit",
+        "English Definition": "not stated directly",
+        "POS": "adj",
+        "J Translation": "暗黙の"
+    },
+    {
+        "Meanings": "impulse",
+        "English Definition": "a sudden desire to do something that is not planned",
+        "POS": "n",
+        "J Translation": "衝撃"
+    },
+    {
+        "Meanings": "incidence",
+        "English Definition": "the rate that something happens",
+        "POS": "n",
+        "J Translation": "発生率"
+    },
+    {
+        "Meanings": "incline",
+        "English Definition": "a slope or surface that rises uphill",
+        "POS": "n",
+        "J Translation": "傾く，傾斜"
+    },
+    {
+        "Meanings": "inclusion",
+        "English Definition": "act of including; person/thing that is included",
+        "POS": "n",
+        "J Translation": "包含"
+    },
+    {
+        "Meanings": "indifference",
+        "English Definition": "a lack of enthusiasm or interest in things; seeming not to care",
+        "POS": "n",
+        "J Translation": "無関心"
+    },
+    {
+        "Meanings": "indigenous",
+        "English Definition": "living or growing naturally in an area, not brought from somewhere else",
+        "POS": "adj",
+        "J Translation": "固有の；土着の"
+    },
+    {
+        "Meanings": "indirect",
+        "English Definition": "having a path that is not straight or direct",
+        "POS": "adj",
+        "J Translation": "間接的な"
+    },
+    {
+        "Meanings": "induce",
+        "English Definition": "to cause, to persuade",
+        "POS": "verb",
+        "J Translation": "誘発する"
+    },
+    {
+        "Meanings": "inference",
+        "English Definition": "an opinion that you form based on information you already have",
+        "POS": "n",
+        "J Translation": "推論"
+    },
+    {
+        "Meanings": "infinite",
+        "English Definition": "without an end",
+        "POS": "adj",
+        "J Translation": "無限の"
+    },
+    {
+        "Meanings": "informal",
+        "English Definition": "not official; not done by the rules",
+        "POS": "adj",
+        "J Translation": "非公式の"
+    },
+    {
+        "Meanings": "inhibit",
+        "English Definition": "to make it difficult for a process to start or continue in a normal way",
+        "POS": "verb",
+        "J Translation": "抑制する"
+    },
+    {
+        "Meanings": "inhibition",
+        "English Definition": "the process whereby nerves can retard or prevent the functioning of an organ; the act of blocking or holding back",
+        "POS": "n",
+        "J Translation": "抑制；阻害"
+    },
+    {
+        "Meanings": "insect",
+        "English Definition": "a small animal with 6 legs, such as a bee or ant",
+        "POS": "n",
+        "J Translation": "昆虫"
+    },
+    {
+        "Meanings": "integral",
+        "English Definition": "part of something",
+        "POS": "adj",
+        "J Translation": "不可欠な"
+    },
+    {
+        "Meanings": "interface",
+        "English Definition": "a shared boundary between two persons or systems through which information is communicated.",
+        "POS": "n",
+        "J Translation": "接点"
+    },
+    {
+        "Meanings": "interval",
+        "English Definition": "the distance between two points, numbers or times",
+        "POS": "n",
+        "J Translation": "間隔；区間"
+    },
+    {
+        "Meanings": "invade",
+        "English Definition": "to enter a place with an aim of taking control of it",
+        "POS": "verb",
+        "J Translation": "侵入する"
+    },
+    {
+        "Meanings": "jazz",
+        "English Definition": "a type of American music known for its energetic beat and parts that musicians make up as they go along",
+        "POS": "n",
+        "J Translation": "ジャズ"
+    },
+    {
+        "Meanings": "leaf",
+        "English Definition": "the green part of a tree or plant",
+        "POS": "n",
+        "J Translation": "葉"
+    },
+    {
+        "Meanings": "leisure",
+        "English Definition": "time when you have no work to do and can relax",
+        "POS": "n",
+        "J Translation": "余暇；レジャー "
+    },
+    {
+        "Meanings": "lever",
+        "English Definition": "a handle that one pulls to operate a machine",
+        "POS": "n",
+        "J Translation": "レバー"
+    },
+    {
+        "Meanings": "likewise",
+        "English Definition": "in the same way, in addition to",
+        "POS": "adj",
+        "J Translation": "同様に"
+    },
+    {
+        "Meanings": "limb",
+        "English Definition": "leg, arm or wing",
+        "POS": "n",
+        "J Translation": "肢"
+    },
+    {
+        "Meanings": "linear",
+        "English Definition": "made of lines",
+        "POS": "adj",
+        "J Translation": "線形の"
+    },
+    {
+        "Meanings": "linguistic",
+        "English Definition": "belonging to language",
+        "POS": "adj",
+        "J Translation": "言語の"
+    },
+    {
+        "Meanings": "linguistics",
+        "English Definition": "the study of human languages",
+        "POS": "n pl.",
+        "J Translation": "言語学"
+    },
+    {
+        "Meanings": "liver",
+        "English Definition": "a large organ in the body that helps to absorb food and clean the blood",
+        "POS": "n",
+        "J Translation": "肝臓"
+    },
+    {
+        "Meanings": "loop",
+        "English Definition": "a round shape",
+        "POS": "n",
+        "J Translation": "輪"
+    },
+    {
+        "Meanings": "lung",
+        "English Definition": "an organ used to breathe",
+        "POS": "n",
+        "J Translation": "肺"
+    },
+    {
+        "Meanings": "magnitude",
+        "English Definition": "size or importance",
+        "POS": "n",
+        "J Translation": "大きさ"
+    },
+    {
+        "Meanings": "manuscript",
+        "English Definition": "a document, a piece of writing",
+        "POS": "n",
+        "J Translation": "原稿"
+    },
+    {
+        "Meanings": "marble",
+        "English Definition": "a kind of stone; metamorphosed limestone",
+        "POS": "n",
+        "J Translation": "大理石"
+    },
+    {
+        "Meanings": "matrix",
+        "English Definition": "a substance, situation, or environment in which something has its origin - in math: an arrangement of numbers in rows and columns",
+        "POS": "n",
+        "J Translation": "マトリックス；基質"
+    },
+    {
+        "Meanings": "maximize",
+        "English Definition": "to increase, or become as large or great as possible",
+        "POS": "verb",
+        "J Translation": "最大化する"
+    },
+    {
+        "Meanings": "mediate",
+        "English Definition": "to bring about an agreement between persons or groups, act as a helper",
+        "POS": "verb",
+        "J Translation": "仲介する"
+    },
+    {
+        "Meanings": "metaphor",
+        "English Definition": "a figure of speech based on analogy",
+        "POS": "n",
+        "J Translation": "隠喩"
+    },
+    {
+        "Meanings": "mineral",
+        "English Definition": "a substance naturally formed in the ground",
+        "POS": "n",
+        "J Translation": "鉱物"
+    },
+    {
+        "Meanings": "minimal",
+        "English Definition": "the smallest possible",
+        "POS": "adj",
+        "J Translation": "最小の"
+    },
+    {
+        "Meanings": "minimize",
+        "English Definition": "to make something as small as possible",
+        "POS": "verb",
+        "J Translation": "最小限にする"
+    },
+    {
+        "Meanings": "momentum",
+        "English Definition": "speed or force that is gained when something moves",
+        "POS": "n",
+        "J Translation": "勢い；運動量"
+    },
+    {
+        "Meanings": "monetary",
+        "English Definition": "concerning money, often referring to a country's economic system",
+        "POS": "adj",
+        "J Translation": "金銭的な"
+    },
+    {
+        "Meanings": "monopoly",
+        "English Definition": "complete control of the market for a service or product",
+        "POS": "adv",
+        "J Translation": "独占"
+    },
+    {
+        "Meanings": "multiply",
+        "English Definition": "to increase greatly in number",
+        "POS": "verb",
+        "J Translation": "掛け合わせる；増殖する"
+    },
+    {
+        "Meanings": "necessity",
+        "English Definition": "something that you must have or do",
+        "POS": "n",
+        "J Translation": "必要性; 必需品"
+    },
+    {
+        "Meanings": "noble",
+        "English Definition": "having personal qualities that people admire",
+        "POS": "adj",
+        "J Translation": "気高い"
+    },
+    {
+        "Meanings": "nonetheless",
+        "English Definition": "in spite of that, nevertheless",
+        "POS": "adj",
+        "J Translation": "それにもかかわらず"
+    },
+    {
+        "Meanings": "nonlinear",
+        "English Definition": "not in a line",
+        "POS": "adj",
+        "J Translation": "非線形の"
+    },
+    {
+        "Meanings": "norm",
+        "English Definition": "an established standard of performance or behavior",
+        "POS": "n",
+        "J Translation": "規範；基準"
+    },
+    {
+        "Meanings": "obscure",
+        "English Definition": "not famous, unknown by most people; not easy to understand",
+        "POS": "adj",
+        "J Translation": "あいまいな"
+    },
+    {
+        "Meanings": "optical",
+        "English Definition": "concerning vision or helping people see",
+        "POS": "adj",
+        "J Translation": "光学の"
+    },
+    {
+        "Meanings": "organism",
+        "English Definition": "living thing, often one that is small",
+        "POS": "n",
+        "J Translation": "生命体"
+    },
+    {
+        "Meanings": "outlet",
+        "English Definition": "a way for something to be released; a pipe, hole or wire through which gas, liquid or electricity flows",
+        "POS": "n",
+        "J Translation": "アウトレット"
+    },
+    {
+        "Meanings": "overhead",
+        "English Definition": "located above your head or in the sky",
+        "POS": "adj",
+        "J Translation": "間接費"
+    },
+    {
+        "Meanings": "overlap",
+        "English Definition": "To lie over or cover a part of something else",
+        "POS": "verb",
+        "J Translation": "重複，重なる"
+    },
+    {
+        "Meanings": "oxygen",
+        "English Definition": "a gas in the air that has no smell or taste, and that all animals need to breathe",
+        "POS": "n",
+        "J Translation": "酸素"
+    },
+    {
+        "Meanings": "paradox",
+        "English Definition": "a saying that seems contrary to popular belief, but which may be true",
+        "POS": "n",
+        "J Translation": "逆説；パラドックス"
+    },
+    {
+        "Meanings": "parameter",
+        "English Definition": "a characteristic or constant factor, a limit.",
+        "POS": "n",
+        "J Translation": "パラメーター"
+    },
+    {
+        "Meanings": "particle",
+        "English Definition": "a very small piece of something",
+        "POS": "n",
+        "J Translation": "粒子"
+    },
+    {
+        "Meanings": "peripheral",
+        "English Definition": "not connected to the main or important part of something",
+        "POS": "adj",
+        "J Translation": "周辺の"
+    },
+    {
+        "Meanings": "physician",
+        "English Definition": "a medical doctor",
+        "POS": "n",
+        "J Translation": "医師"
+    },
+    {
+        "Meanings": "physics",
+        "English Definition": "the study of heat, light, and other forms of energy and how they affect objects",
+        "POS": "n pl.",
+        "J Translation": "物理学"
+    },
+    {
+        "Meanings": "plural",
+        "English Definition": "refers to more than one person or thing",
+        "POS": "adj",
+        "J Translation": "複数の"
+    },
+    {
+        "Meanings": "polar",
+        "English Definition": "concerning the areas near the North or South poles",
+        "POS": "adj",
+        "J Translation": "極の"
+    },
+    {
+        "Meanings": "portfolio",
+        "English Definition": "a list of the financial assets held by an individual or other financial institution",
+        "POS": "n",
+        "J Translation": "ポートフォリオ"
+    },
+    {
+        "Meanings": "portray",
+        "English Definition": "to represent something or someone in a particular way, often for artistic purposes",
+        "POS": "verb",
+        "J Translation": "描く"
+    },
+    {
+        "Meanings": "portrayal",
+        "English Definition": "the way that something or someone is represented in a book, film, picture or other context",
+        "POS": "adj",
+        "J Translation": "描写"
+    },
+    {
+        "Meanings": "poster",
+        "English Definition": "a large, printed notice or picture",
+        "POS": "n",
+        "J Translation": "ポスター"
+    },
+    {
+        "Meanings": "predator",
+        "English Definition": "an animal that feeds itself by killing and eating other animals",
+        "POS": "n",
+        "J Translation": "捕食者"
+    },
+    {
+        "Meanings": "predominantly",
+        "English Definition": "in a way that is larger, greater or has more power than others",
+        "POS": "adv",
+        "J Translation": "圧倒的に"
+    },
+    {
+        "Meanings": "prejudice",
+        "English Definition": "an unreasonable hatred for a group of people, usually a race or a religion",
+        "POS": "n",
+        "J Translation": "偏見"
+    },
+    {
+        "Meanings": "preliminary",
+        "English Definition": "before",
+        "POS": "adj",
+        "J Translation": "予備の"
+    },
+    {
+        "Meanings": "prevalence",
+        "English Definition": "widespread, common, general",
+        "POS": "n",
+        "J Translation": "流行"
+    },
+    {
+        "Meanings": "prey",
+        "English Definition": "an animal that is killed and eaten by another animal",
+        "POS": "n",
+        "J Translation": "捕食"
+    },
+    {
+        "Meanings": "primitive",
+        "English Definition": "being of an early time period in the past",
+        "POS": "adj",
+        "J Translation": "原始的な"
+    },
+    {
+        "Meanings": "proposition",
+        "English Definition": "an idea; a suggestion",
+        "POS": "n",
+        "J Translation": "提案；命題"
+    },
+    {
+        "Meanings": "protocol",
+        "English Definition": "a set of rules; computers use protocol so they can exchange information",
+        "POS": "n",
+        "J Translation": "外交儀礼；議定書；協定"
+    },
+    {
+        "Meanings": "pulse",
+        "English Definition": "beat of the heart",
+        "POS": "n",
+        "J Translation": "脈拍"
+    },
+    {
+        "Meanings": "questionnaire",
+        "English Definition": "form used to get information from many people",
+        "POS": "n",
+        "J Translation": "アンケート"
+    },
+    {
+        "Meanings": "rack",
+        "English Definition": "a frame, stand or hook on which things are set or hung",
+        "POS": "n",
+        "J Translation": "棚"
+    },
+    {
+        "Meanings": "realm",
+        "English Definition": "the area ruled by a king or queen",
+        "POS": "n",
+        "J Translation": "領域"
+    },
+    {
+        "Meanings": "regression",
+        "English Definition": "going back; in statistics: a type of correlational procedure that focuses on predicting the values of an outcome based on its correlation with another variable.",
+        "POS": "n",
+        "J Translation": "退行"
+    },
+    {
+        "Meanings": "rehabilitation",
+        "English Definition": "a scheme to help someone who has been ill or in prison to return to a healthy, independent, and useful life",
+        "POS": "n",
+        "J Translation": "修復；リハビリ"
+    },
+    {
+        "Meanings": "residual",
+        "English Definition": "concerning the last little bit, after the rest has gone or ended",
+        "POS": "adj",
+        "J Translation": "残りの，残余"
+    },
+    {
+        "Meanings": "residue",
+        "English Definition": "left over after part or most is taken away",
+        "POS": "n",
+        "J Translation": "剰余；残留物"
+    },
+    {
+        "Meanings": "retrieve",
+        "English Definition": "to find and get something from somewhere",
+        "POS": "verb",
+        "J Translation": "取り戻す；検索する"
+    },
+    {
+        "Meanings": "rhetoric",
+        "English Definition": "the study of public speaking or writing techniques",
+        "POS": "n",
+        "J Translation": "言葉遣い；修辞学"
+    },
+    {
+        "Meanings": "robot",
+        "English Definition": "a mechanical creature that acts like a human",
+        "POS": "n",
+        "J Translation": "ロボット"
+    },
+    {
+        "Meanings": "rotate",
+        "English Definition": "to move or turn around a central point",
+        "POS": "verb",
+        "J Translation": "回転する"
+    },
+    {
+        "Meanings": "rotation",
+        "English Definition": "movement in a circle around a central point",
+        "POS": "n",
+        "J Translation": "回転"
+    },
+    {
+        "Meanings": "scenario",
+        "English Definition": "an outline; an imagined sequence of events in a plan or project",
+        "POS": "n",
+        "J Translation": "シナリオ"
+    },
+    {
+        "Meanings": "scholarship",
+        "English Definition": "money given to a student to pay for education",
+        "POS": "n",
+        "J Translation": "奨学金"
+    },
+    {
+        "Meanings": "seminar",
+        "English Definition": "a small class at a college or university",
+        "POS": "n",
+        "J Translation": "セミナー"
+    },
+    {
+        "Meanings": "sensation",
+        "English Definition": "a feeling that is experienced by the body, usually through the sense of touch",
+        "POS": "n",
+        "J Translation": "感覚"
+    },
+    {
+        "Meanings": "shallow",
+        "English Definition": "not deep; a small distance between the lowest and highest point",
+        "POS": "adj",
+        "J Translation": "浅い"
+    },
+    {
+        "Meanings": "simulate",
+        "English Definition": "to look, feel, or behave like something; to copy",
+        "POS": "verb",
+        "J Translation": "ふりをする；シミュレーションをする"
+    },
+    {
+        "Meanings": "simulation",
+        "English Definition": "a copy; a method that is used to study and analyze the characteristics of the real world",
+        "POS": "n",
+        "J Translation": "シミュレーション"
+    },
+    {
+        "Meanings": "sketch",
+        "English Definition": "a drawing made quickly that lacks detail",
+        "POS": "n",
+        "J Translation": "スケッチ"
+    },
+    {
+        "Meanings": "skip",
+        "English Definition": "to not do; to jump",
+        "POS": "verb",
+        "J Translation": "スキップ，飛ばす"
+    },
+    {
+        "Meanings": "slot",
+        "English Definition": "a long narrow opening, into which you put or fit something",
+        "POS": "n",
+        "J Translation": "細長い穴；地位；時間枠"
+    },
+    {
+        "Meanings": "sodium",
+        "English Definition": "a soft, white chemical element",
+        "POS": "n",
+        "J Translation": "ナトリウム"
+    },
+    {
+        "Meanings": "solar",
+        "English Definition": "concerning the sun, or its heat",
+        "POS": "adj",
+        "J Translation": "太陽の"
+    },
+    {
+        "Meanings": "span",
+        "English Definition": "the amount of time something lasts",
+        "POS": "verb",
+        "J Translation": "期間，架かる；及ぶ"
+    },
+    {
+        "Meanings": "spatial",
+        "English Definition": "about space",
+        "POS": "adj",
+        "J Translation": "空間的な"
+    },
+    {
+        "Meanings": "specimen",
+        "English Definition": "an example of something, especially of a plant or an animal; a small amount of blood or urine",
+        "POS": "n pl.",
+        "J Translation": "見本；標本"
+    },
+    {
+        "Meanings": "spectrum",
+        "English Definition": "the wavelengths of colors from red to violet",
+        "POS": "n",
+        "J Translation": "スペクトル"
+    },
+    {
+        "Meanings": "sphere",
+        "English Definition": "a round 3D object. e.g. a ball",
+        "POS": "n",
+        "J Translation": "球体；天体"
+    },
+    {
+        "Meanings": "spontaneous",
+        "English Definition": "something that happens on its own, seemingly without cause",
+        "POS": "adj",
+        "J Translation": "自発的な"
+    },
+    {
+        "Meanings": "stack",
+        "English Definition": "To put one thing on top of another e.g. books",
+        "POS": "verb",
+        "J Translation": "山，積み上げる"
+    },
+    {
+        "Meanings": "stadium",
+        "English Definition": "very large building with a sports field and rows of seats all around that is used for various events",
+        "POS": "n",
+        "J Translation": "スタジアム"
+    },
+    {
+        "Meanings": "stance",
+        "English Definition": "a position or opinion that is stated to the public",
+        "POS": "n",
+        "J Translation": "姿勢"
+    },
+    {
+        "Meanings": "stereotype",
+        "English Definition": "an idea or belief about what someone or something is like, often unfair or untrue",
+        "POS": "n",
+        "J Translation": "固定観念，固定観念で見る"
+    },
+    {
+        "Meanings": "stimulus",
+        "English Definition": "something that makes a change.",
+        "POS": "n pl.",
+        "J Translation": "刺激"
+    },
+    {
+        "Meanings": "straightforward",
+        "English Definition": "easy to do or understand; not complicated",
+        "POS": "adj",
+        "J Translation": "まっすぐな；率直な；正直な"
+    },
+    {
+        "Meanings": "strand",
+        "English Definition": "something that is plaited or twisted as a rope-like length",
+        "POS": "n",
+        "J Translation": "糸"
+    },
+    {
+        "Meanings": "stripe",
+        "English Definition": "a long, thin part of something which is a different color from the parts beside it",
+        "POS": "n",
+        "J Translation": "縞模様"
+    },
+    {
+        "Meanings": "subjective",
+        "English Definition": "the use of personal feelings and opinions, rather than facts",
+        "POS": "adj",
+        "J Translation": "主観的な"
+    },
+    {
+        "Meanings": "surgeon",
+        "English Definition": "a doctor who performs surgery",
+        "POS": "n",
+        "J Translation": "外科医"
+    },
+    {
+        "Meanings": "surplus",
+        "English Definition": "extra; more than is needed",
+        "POS": "adj",
+        "J Translation": "余剰；黒字"
+    },
+    {
+        "Meanings": "syndrome",
+        "English Definition": "a group of signs and symptoms that accompany a disease",
+        "POS": "n",
+        "J Translation": "症候群"
+    },
+    {
+        "Meanings": "synthesis",
+        "English Definition": "building something complex from simple parts",
+        "POS": "n pl.",
+        "J Translation": "合成"
+    },
+    {
+        "Meanings": "terminal",
+        "English Definition": "the end of something",
+        "POS": "n",
+        "J Translation": "終点；終着駅；ターミナル"
+    },
+    {
+        "Meanings": "thesis",
+        "English Definition": "a long essay; a position taken in an argument supported by a set of reasons",
+        "POS": "n",
+        "J Translation": "論文；命題"
+    },
+    {
+        "Meanings": "thread",
+        "English Definition": "a long, very thin, soft material used to join or make cloth",
+        "POS": "n",
+        "J Translation": "糸"
+    },
+    {
+        "Meanings": "threshold",
+        "English Definition": "a level or point at which something would start or stop happening.",
+        "POS": "n",
+        "J Translation": "しきい値"
+    },
+    {
+        "Meanings": "thumb",
+        "English Definition": "the short, thick finger on the side of your hand",
+        "POS": "n",
+        "J Translation": "親指"
+    },
+    {
+        "Meanings": "toxic",
+        "English Definition": "poisonous; harmful",
+        "POS": "adj",
+        "J Translation": "毒性の"
+    },
+    {
+        "Meanings": "trait",
+        "English Definition": "a characteristic",
+        "POS": "n",
+        "J Translation": "特徴"
+    },
+    {
+        "Meanings": "transcription",
+        "English Definition": "something written",
+        "POS": "n",
+        "J Translation": "転写"
+    },
+    {
+        "Meanings": "transplant",
+        "English Definition": "a medical operation in which a new organ is placed inside a patient's body",
+        "POS": "n",
+        "J Translation": "移植，移植する"
+    },
+    {
+        "Meanings": "trauma",
+        "English Definition": "a very severe or upsetting experience",
+        "POS": "n",
+        "J Translation": "外傷；トラウマ"
+    },
+    {
+        "Meanings": "triangle",
+        "English Definition": "a closed shape with three straight sides",
+        "POS": "n",
+        "J Translation": "三角形"
+    },
+    {
+        "Meanings": "tropical",
+        "English Definition": "hot and humid; near to the equator",
+        "POS": "adj",
+        "J Translation": "熱帯の"
+    },
+    {
+        "Meanings": "tumor",
+        "English Definition": "a mass of abnormal cells that develops when cancerous cells divide and grow uncontrollably",
+        "POS": "n",
+        "J Translation": "腫瘍"
+    },
+    {
+        "Meanings": "tutor",
+        "English Definition": "a teacher",
+        "POS": "n",
+        "J Translation": "家庭教師"
+    },
+    {
+        "Meanings": "undermine",
+        "English Definition": "to weaken or destroy something secretly and usually slowly",
+        "POS": "verb",
+        "J Translation": "弱体化させる"
+    },
+    {
+        "Meanings": "unify",
+        "English Definition": "to join or bring together",
+        "POS": "verb",
+        "J Translation": "統一する"
+    },
+    {
+        "Meanings": "upward",
+        "English Definition": "moving toward a higher point or position",
+        "POS": "adv",
+        "J Translation": "上向きに"
+    },
+    {
+        "Meanings": "utilize",
+        "English Definition": "to use something practically for a particular purpose",
+        "POS": "verb",
+        "J Translation": "利用する"
+    },
+    {
+        "Meanings": "utterance",
+        "English Definition": "something that is said",
+        "POS": "n",
+        "J Translation": "発話"
+    },
+    {
+        "Meanings": "vein",
+        "English Definition": "one of the little tubes that return blood from the body to the heart",
+        "POS": "n",
+        "J Translation": "静脈"
+    },
+    {
+        "Meanings": "verbal",
+        "English Definition": "using speech, rather than being written",
+        "POS": "adj",
+        "J Translation": "言葉による"
+    },
+    {
+        "Meanings": "vertical",
+        "English Definition": "a line going up/down; not horizontal",
+        "POS": "adj",
+        "J Translation": "垂直の"
+    },
+    {
+        "Meanings": "viable",
+        "English Definition": "able to be done; possible",
+        "POS": "adj",
+        "J Translation": "実行可能な"
+    },
+    {
+        "Meanings": "vitamin",
+        "English Definition": "a substance that is healthy for your body and can be found in foods or taken as a medicine",
+        "POS": "n",
+        "J Translation": "ビタミン"
+    },
+    {
+        "Meanings": "abdominal",
+        "English Definition": "Concerned with the abdomen or stomach",
+        "POS": "adj",
+        "J Translation": "腹部の"
+    },
+    {
+        "Meanings": "aggregate",
+        "English Definition": "a sum total amount of something",
+        "POS": "n",
+        "J Translation": "(...の)総計"
+    },
+    {
+        "Meanings": "algorithm",
+        "English Definition": "a step-by-step problem-solving feature",
+        "POS": "n",
+        "J Translation": "アルゴリズム"
+    },
+    {
+        "Meanings": "altitude",
+        "English Definition": "the height of something above sea level",
+        "POS": "n",
+        "J Translation": "高度"
+    },
+    {
+        "Meanings": "analogy",
+        "English Definition": "comparison of things based on their similarity",
+        "POS": "n",
+        "J Translation": "類似；類推"
+    },
+    {
+        "Meanings": "antibiotic",
+        "English Definition": "concerning medicine that is used to fight certain diseases",
+        "POS": "adj",
+        "J Translation": "抗生物質，抗生物質の"
+    },
+    {
+        "Meanings": "antibody",
+        "English Definition": "a defense provided by the body against disease",
+        "POS": "n",
+        "J Translation": "抗体"
+    },
+    {
+        "Meanings": "appendix",
+        "English Definition": "additional information at the end of a document",
+        "POS": "n",
+        "J Translation": "付録；追加"
+    },
+    {
+        "Meanings": "applause",
+        "English Definition": "the sound made by clapping a performance or speech",
+        "POS": "n",
+        "J Translation": "拍手"
+    },
+    {
+        "Meanings": "arbitrary",
+        "English Definition": "unsupported",
+        "POS": "adj",
+        "J Translation": "任意の; 気ままな"
+    },
+    {
+        "Meanings": "axis",
+        "English Definition": "a line about which a rotating body, such as the earth, turns.",
+        "POS": "n",
+        "J Translation": "軸"
+    },
+    {
+        "Meanings": "bracket",
+        "English Definition": "a 90 degree piece of metal used to support a wall shelf",
+        "POS": "n",
+        "J Translation": "括弧"
+    },
+    {
+        "Meanings": "coefficient",
+        "English Definition": "a number multiplied by a variable in an algebraic expression.",
+        "POS": "adj",
+        "J Translation": "係数"
+    },
+    {
+        "Meanings": "composite",
+        "English Definition": "made of more than one different part",
+        "POS": "adj",
+        "J Translation": "合成物，複合の"
+    },
+    {
+        "Meanings": "cone",
+        "English Definition": "a 3D shape with a circular base; a part of the eye",
+        "POS": "n",
+        "J Translation": "円錐"
+    },
+    {
+        "Meanings": "converge",
+        "English Definition": "to come together",
+        "POS": "verb",
+        "J Translation": "集中する"
+    },
+    {
+        "Meanings": "convergence",
+        "English Definition": "coming together",
+        "POS": "n",
+        "J Translation": "収束"
+    },
+    {
+        "Meanings": "cue",
+        "English Definition": "a word or action during a stage play to tell an actor to speak",
+        "POS": "n",
+        "J Translation": "合図，合図を送る"
+    },
+    {
+        "Meanings": "cylinder",
+        "English Definition": "a shape or object with flat, circular ends and long, straight sides",
+        "POS": "n",
+        "J Translation": "シリンダー"
+    },
+    {
+        "Meanings": "degrade",
+        "English Definition": "to treat someone without respect; to reduce in amount or strength",
+        "POS": "verb",
+        "J Translation": "低下する；分解する"
+    },
+    {
+        "Meanings": "delta",
+        "English Definition": "the place a river divides before entering a larger body of water",
+        "POS": "n",
+        "J Translation": "デルタ"
+    },
+    {
+        "Meanings": "deviation",
+        "English Definition": "not standard or normal; in statistics: the difference between one of a set of values and some fixed value, usually the mean of the set.",
+        "POS": "n",
+        "J Translation": "逸脱；偏差"
+    },
+    {
+        "Meanings": "diagnostic",
+        "English Definition": "to do with finding out the cause of a problem",
+        "POS": "adj",
+        "J Translation": "診断の"
+    },
+    {
+        "Meanings": "differential",
+        "English Definition": "difference; diversity",
+        "POS": "adj",
+        "J Translation": "区別を示す"
+    },
+    {
+        "Meanings": "diffusion",
+        "English Definition": "the movement of light in many directions",
+        "POS": "n",
+        "J Translation": "拡散"
+    },
+    {
+        "Meanings": "dilute",
+        "English Definition": "to mix; to reduce in strength, concentration, quality or purity",
+        "POS": "verb",
+        "J Translation": "希薄な，薄くする"
+    },
+    {
+        "Meanings": "dominance",
+        "English Definition": "the state of being more powerful, successful, or important than others",
+        "POS": "n",
+        "J Translation": "支配"
+    },
+    {
+        "Meanings": "dye",
+        "English Definition": "a liquid that colors hair or cloth",
+        "POS": "n",
+        "J Translation": "染料，染める"
+    },
+    {
+        "Meanings": "ecology",
+        "English Definition": "the study of plants, animals, people, and their environments",
+        "POS": "n",
+        "J Translation": "生態学"
+    },
+    {
+        "Meanings": "elastic",
+        "English Definition": "able to return to original shape or size after stretching",
+        "POS": "adj",
+        "J Translation": "弾性の"
+    },
+    {
+        "Meanings": "elasticity",
+        "English Definition": "the ability to stretch easily and then quickly return to the original shape",
+        "POS": "n",
+        "J Translation": "弾力性"
+    },
+    {
+        "Meanings": "embed",
+        "English Definition": "to place or set inside rock, etc",
+        "POS": "verb",
+        "J Translation": "埋め込む"
+    },
+    {
+        "Meanings": "enzyme",
+        "English Definition": "a protein made by cells",
+        "POS": "n",
+        "J Translation": "酵素"
+    },
+    {
+        "Meanings": "epidemic",
+        "English Definition": "a disease affecting many people",
+        "POS": "adj",
+        "J Translation": "流行性の、伝染病"
+    },
+    {
+        "Meanings": "equilibrium",
+        "English Definition": "a state of balance",
+        "POS": "n",
+        "J Translation": "平衡"
+    },
+    {
+        "Meanings": "erase",
+        "English Definition": "to remove written information or information on a computer memory",
+        "POS": "verb",
+        "J Translation": "消す"
+    },
+    {
+        "Meanings": "fatigue",
+        "English Definition": "being very tired",
+        "POS": "n",
+        "J Translation": "疲労"
+    },
+    {
+        "Meanings": "fungus",
+        "English Definition": "a group of plants that grow on dead materials and have no flowers, e.g. mushrooms",
+        "POS": "n pl.",
+        "J Translation": "菌"
+    },
+    {
+        "Meanings": "gram",
+        "English Definition": "a metric unit of weight",
+        "POS": "n",
+        "J Translation": "グラム"
+    },
+    {
+        "Meanings": "hawk",
+        "English Definition": "a large bird that gets its food by killing smaller birds and animals",
+        "POS": "n",
+        "J Translation": "タカ"
+    },
+    {
+        "Meanings": "incumbent",
+        "English Definition": "a person who holds a particular office or position",
+        "POS": "n",
+        "J Translation": "現職"
+    },
+    {
+        "Meanings": "inferior",
+        "English Definition": "not as good as something else",
+        "POS": "adj",
+        "J Translation": "劣る，目下の者"
+    },
+    {
+        "Meanings": "intermediate",
+        "English Definition": "between",
+        "POS": "adj",
+        "J Translation": "中級の；中間の"
+    },
+    {
+        "Meanings": "ion",
+        "English Definition": "a charged atom",
+        "POS": "n",
+        "J Translation": "イオン"
+    },
+    {
+        "Meanings": "kidney",
+        "English Definition": "an organ in the body that cleans the blood",
+        "POS": "n",
+        "J Translation": "腎臓"
+    },
+    {
+        "Meanings": "lateral",
+        "English Definition": "on the side; moving sideways",
+        "POS": "adj",
+        "J Translation": "横の，側面"
+    },
+    {
+        "Meanings": "mall",
+        "English Definition": "a large shopping center with many individual stores",
+        "POS": "n",
+        "J Translation": "モール"
+    },
+    {
+        "Meanings": "maternal",
+        "English Definition": "having to do with being a mother",
+        "POS": "adj",
+        "J Translation": "母性の"
+    },
+    {
+        "Meanings": "membrane",
+        "English Definition": "a thin covering of tissue.",
+        "POS": "n",
+        "J Translation": "膜"
+    },
+    {
+        "Meanings": "messenger",
+        "English Definition": "someone who delivers a messages",
+        "POS": "n",
+        "J Translation": "使者；メッセンジャー"
+    },
+    {
+        "Meanings": "motif",
+        "English Definition": "a distinctive form, shape or figure in a design",
+        "POS": "n",
+        "J Translation": "モチーフ"
+    },
+    {
+        "Meanings": "multinational",
+        "English Definition": "involving many countries",
+        "POS": "adj",
+        "J Translation": "多国籍の，多国籍企業"
+    },
+    {
+        "Meanings": "mutation",
+        "English Definition": "a change; in genetics: any event that changes genetic structure",
+        "POS": "n",
+        "J Translation": "突然変異"
+    },
+    {
+        "Meanings": "niche",
+        "English Definition": "a small area; a specialised business, job or activity",
+        "POS": "n",
+        "J Translation": "ニッチ"
+    },
+    {
+        "Meanings": "nitrogen",
+        "English Definition": "a colorless chemical element without a smell that forms most of the earth's atmosphere",
+        "POS": "n",
+        "J Translation": "窒素"
+    },
+    {
+        "Meanings": "node",
+        "English Definition": "an intersection or junction point in a network; a part on a plant where a new leaf grows",
+        "POS": "n",
+        "J Translation": "こぶ；結節"
+    },
+    {
+        "Meanings": "nominal",
+        "English Definition": "in name or thought but not reality",
+        "POS": "adj",
+        "J Translation": "名ばかりの"
+    },
+    {
+        "Meanings": "nucleus",
+        "English Definition": "control center of a cell",
+        "POS": "n pl.",
+        "J Translation": "核"
+    },
+    {
+        "Meanings": "numerical",
+        "English Definition": "includes numbers",
+        "POS": "adj",
+        "J Translation": "数値"
+    },
+    {
+        "Meanings": "nutrient",
+        "English Definition": "a chemical, food, that animals and plants need to live, develop, and be healthy",
+        "POS": "n",
+        "J Translation": "栄養素"
+    },
+    {
+        "Meanings": "offspring",
+        "English Definition": "the child of a person or the young of a plant or animal",
+        "POS": "n",
+        "J Translation": "子孫"
+    },
+    {
+        "Meanings": "onset",
+        "English Definition": "the beginning",
+        "POS": "n",
+        "J Translation": "開始"
+    },
+    {
+        "Meanings": "optimal",
+        "English Definition": "best",
+        "POS": "adj",
+        "J Translation": "最適な"
+    },
+    {
+        "Meanings": "orient",
+        "English Definition": "to focus your attention or efforts on something",
+        "POS": "verb",
+        "J Translation": "適応させる；正しい方向に置く"
+    },
+    {
+        "Meanings": "overview",
+        "English Definition": "a description of the main features of something",
+        "POS": "n",
+        "J Translation": "概観"
+    },
+    {
+        "Meanings": "par",
+        "English Definition": "the usual amount",
+        "POS": "n",
+        "J Translation": "等価；平均；額面価格"
+    },
+    {
+        "Meanings": "paradigm",
+        "English Definition": "a set of ideas that are used for understanding or explaining something",
+        "POS": "n",
+        "J Translation": "パラダイム"
+    },
+    {
+        "Meanings": "parcel",
+        "English Definition": "a package or box wrapped in paper, a thing bigger than a letter that is sent in the mail",
+        "POS": "n",
+        "J Translation": "小包"
+    },
+    {
+        "Meanings": "pest",
+        "English Definition": "an unwanted insect or small animal that eats plants or food supplies",
+        "POS": "n",
+        "J Translation": "害虫"
+    },
+    {
+        "Meanings": "pesticide",
+        "English Definition": "a chemical substance used to kill pests",
+        "POS": "n",
+        "J Translation": "農薬"
+    },
+    {
+        "Meanings": "plantation",
+        "English Definition": "a large area of plants, usually in a hot climate",
+        "POS": "n",
+        "J Translation": "農園"
+    },
+    {
+        "Meanings": "plausible",
+        "English Definition": "being reasonable and possibly true",
+        "POS": "adj",
+        "J Translation": "もっともらしい"
+    },
+    {
+        "Meanings": "pragmatic",
+        "English Definition": "dealing with problems in a reasonable, practical manner",
+        "POS": "adj",
+        "J Translation": "実用的な"
+    },
+    {
+        "Meanings": "precipitate",
+        "English Definition": "to cause to happen",
+        "POS": "verb",
+        "J Translation": "沈殿物"
+    },
+    {
+        "Meanings": "precipitation",
+        "English Definition": "rain, snow or hail",
+        "POS": "n",
+        "J Translation": "降水量"
+    },
+    {
+        "Meanings": "qualitative",
+        "English Definition": "concerning how good something is, rather than quantity",
+        "POS": "adj",
+        "J Translation": "質的な"
+    },
+    {
+        "Meanings": "quantum",
+        "English Definition": "the smallest unit or amount of energy",
+        "POS": "n",
+        "J Translation": "量子"
+    },
+    {
+        "Meanings": "radar",
+        "English Definition": "a device that sends out radio waves for finding out the position of another object",
+        "POS": "n",
+        "J Translation": "レーダー"
+    },
+    {
+        "Meanings": "replicate",
+        "English Definition": "to repeat something, such as an experiment, study or process",
+        "POS": "verb",
+        "J Translation": "複製する"
+    },
+    {
+        "Meanings": "replication",
+        "English Definition": "the act of making copies",
+        "POS": "n",
+        "J Translation": "レプリケーション"
+    },
+    {
+        "Meanings": "reservoir",
+        "English Definition": "a lake, usually artificial, where water is collected and stored for the use of a community or industry",
+        "POS": "n",
+        "J Translation": "貯水池"
+    },
+    {
+        "Meanings": "scripture",
+        "English Definition": "the holy books of a particular religion",
+        "POS": "n",
+        "J Translation": "聖書"
+    },
+    {
+        "Meanings": "sediment",
+        "English Definition": "the material that settles to the bottom of a liquid",
+        "POS": "n",
+        "J Translation": "堆積物"
+    },
+    {
+        "Meanings": "semantic",
+        "English Definition": "the different meanings of words",
+        "POS": "adj",
+        "J Translation": "意味の"
+    },
+    {
+        "Meanings": "shuttle",
+        "English Definition": "a vehicle that carries passengers or items between two places",
+        "POS": "n",
+        "J Translation": "シャトル，往復する"
+    },
+    {
+        "Meanings": "singular",
+        "English Definition": "one",
+        "POS": "adj",
+        "J Translation": "単数の；並外れた"
+    },
+    {
+        "Meanings": "slab",
+        "English Definition": "a thick, flat slice of something",
+        "POS": "n",
+        "J Translation": "厚板；厚切り"
+    },
+    {
+        "Meanings": "slash",
+        "English Definition": "to cut violently",
+        "POS": "n",
+        "J Translation": "サッと切る；大幅に削減する，切り傷；削減；スラッシュ"
+    },
+    {
+        "Meanings": "sniff",
+        "English Definition": "to smell by short intakes of air.",
+        "POS": "verb",
+        "J Translation": "匂いを嗅ぐ"
+    },
+    {
+        "Meanings": "socialize",
+        "English Definition": "to teach people to behave in a way which is acceptable in their culture; to spend time with people",
+        "POS": "verb",
+        "J Translation": "社交化"
+    },
+    {
+        "Meanings": "static",
+        "English Definition": "being unchangeable or unmovable",
+        "POS": "adj",
+        "J Translation": "静的な"
+    },
+    {
+        "Meanings": "surgical",
+        "English Definition": "concerning surgery",
+        "POS": "adj",
+        "J Translation": "外科の"
+    },
+    {
+        "Meanings": "susceptible",
+        "English Definition": "at risk of developing a certain illness or problem",
+        "POS": "adj",
+        "J Translation": "影響を受けやすい"
+    },
+    {
+        "Meanings": "swap",
+        "English Definition": "to trade or exchange",
+        "POS": "verb",
+        "J Translation": "交換する"
+    },
+    {
+        "Meanings": "synthetic",
+        "English Definition": "not natural; made from artificial materials",
+        "POS": "adj",
+        "J Translation": "合成的な"
+    },
+    {
+        "Meanings": "temporal",
+        "English Definition": "concerning time",
+        "POS": "adj",
+        "J Translation": "一時的な"
+    },
+    {
+        "Meanings": "thermal",
+        "English Definition": "with reference to some source of heat",
+        "POS": "adj",
+        "J Translation": "熱の"
+    },
+    {
+        "Meanings": "tolerance",
+        "English Definition": "a willingness to let people do, say or believe what they wish, without judging or challenging them",
+        "POS": "n",
+        "J Translation": "耐性"
+    },
+    {
+        "Meanings": "tract",
+        "English Definition": "a large stretch of land",
+        "POS": "n",
+        "J Translation": "器官系；土地"
+    },
+    {
+        "Meanings": "trivial",
+        "English Definition": "unimportant",
+        "POS": "adj",
+        "J Translation": "ささいな"
+    },
+    {
+        "Meanings": "turbulent",
+        "English Definition": "moving violently and unevenly",
+        "POS": "adj",
+        "J Translation": "乱流"
+    },
+    {
+        "Meanings": "undergraduate",
+        "English Definition": "a college student who is working toward his or her first degree",
+        "POS": "n",
+        "J Translation": "学部生"
+    },
+    {
+        "Meanings": "unintelligible",
+        "English Definition": "that cannot be understood",
+        "POS": "adj",
+        "J Translation": "理解できない"
+    },
+    {
+        "Meanings": "urine",
+        "English Definition": "yellow liquid waste from the body",
+        "POS": "n",
+        "J Translation": "尿"
+    },
+    {
+        "Meanings": "usage",
+        "English Definition": "the way something is used",
+        "POS": "n",
+        "J Translation": "使用"
+    },
+    {
+        "Meanings": "valve",
+        "English Definition": "a device along a pipe that can either open and allow something to flow, or close and block it",
+        "POS": "n",
+        "J Translation": "弁；バルブ"
+    },
+    {
+        "Meanings": "vegetation",
+        "English Definition": "plants",
+        "POS": "n",
+        "J Translation": "植生"
+    },
+    {
+        "Meanings": "velocity",
+        "English Definition": "speed in a given direction",
+        "POS": "n",
+        "J Translation": "速度"
+    },
+    {
+        "Meanings": "vocabulary",
+        "English Definition": "the words that a person knows",
+        "POS": "n",
+        "J Translation": "語彙"
+    },
+    {
+        "Meanings": "wheat",
+        "English Definition": "a kind of grain that is used to make flour for bread",
+        "POS": "n",
+        "J Translation": "小麦"
+    },
+    {
+        "Meanings": "whereby",
+        "English Definition": "by which; by that thing",
+        "POS": "adv",
+        "J Translation": "それによって～する"
+    },
+    {
+        "Meanings": "antiquity",
+        "English Definition": "an ancient period; something made a long time ago",
+        "POS": "n",
+        "J Translation": "古代；古代に作られたもの"
+    },
+    {
+        "Meanings": "binary",
+        "English Definition": "having two parts; using only 2 numbers, 1 and 0",
+        "POS": "adj",
+        "J Translation": "２つの；２進法の"
+    },
+    {
+        "Meanings": "chess",
+        "English Definition": "a game of strategy, for two players",
+        "POS": "n",
+        "J Translation": "チェス"
+    },
+    {
+        "Meanings": "chromosome",
+        "English Definition": "cell structures that carry the genetic material that is copied and passed to the next generation.",
+        "POS": "n",
+        "J Translation": "染色体"
+    },
+    {
+        "Meanings": "contour",
+        "English Definition": "the shape of the outside edge of something",
+        "POS": "n",
+        "J Translation": "輪郭"
+    },
+    {
+        "Meanings": "coronary",
+        "English Definition": "concerning the heart",
+        "POS": "adj",
+        "J Translation": "冠状動脈"
+    },
+    {
+        "Meanings": "corpus",
+        "English Definition": "a body; in linguistics: a body of words",
+        "POS": "n pl.",
+        "J Translation": "集成；コーパス；体"
+    },
+    {
+        "Meanings": "deceive",
+        "English Definition": "to make someone believe something that is not true",
+        "POS": "verb",
+        "J Translation": "欺く"
+    },
+    {
+        "Meanings": "deflection",
+        "English Definition": "the action of making something move in a different direction",
+        "POS": "n",
+        "J Translation": "たわみ"
+    },
+    {
+        "Meanings": "denote",
+        "English Definition": "be a name or symbol for",
+        "POS": "verb",
+        "J Translation": "示す"
+    },
+    {
+        "Meanings": "dialect",
+        "English Definition": "a way of speaking a language that is used only in a particular area or by a particular group",
+        "POS": "n",
+        "J Translation": "方言"
+    },
+    {
+        "Meanings": "discrete",
+        "English Definition": "separate; composed of distinct parts",
+        "POS": "adj",
+        "J Translation": "別々の"
+    },
+    {
+        "Meanings": "encode",
+        "English Definition": "to change a message or information into code",
+        "POS": "verb",
+        "J Translation": "暗号化する"
+    },
+    {
+        "Meanings": "epidemiology",
+        "English Definition": "the science of how diseases spread",
+        "POS": "n",
+        "J Translation": "疫学"
+    },
+    {
+        "Meanings": "facet",
+        "English Definition": "a part of something",
+        "POS": "n",
+        "J Translation": "宝石などの小面"
+    },
+    {
+        "Meanings": "fin",
+        "English Definition": "the flat, thin body parts of a fish that sticks out and helps guide it through water",
+        "POS": "n",
+        "J Translation": "魚のひれ"
+    },
+    {
+        "Meanings": "finite",
+        "English Definition": "having limits; lasting for a limited time",
+        "POS": "adj",
+        "J Translation": "有限の"
+    },
+    {
+        "Meanings": "flux",
+        "English Definition": "a state of flow and change",
+        "POS": "n",
+        "J Translation": "流れ"
+    },
+    {
+        "Meanings": "friction",
+        "English Definition": "the act of sliding two objects against each other",
+        "POS": "n",
+        "J Translation": "摩擦"
+    },
+    {
+        "Meanings": "hepatitis",
+        "English Definition": "a disease of the liver that causes inflammation, yellow skin and a fever",
+        "POS": "n",
+        "J Translation": "肝炎"
+    },
+    {
+        "Meanings": "induction",
+        "English Definition": "bringing about, or causing",
+        "POS": "n",
+        "J Translation": "誘導"
+    },
+    {
+        "Meanings": "invert",
+        "English Definition": "to turn something upside down",
+        "POS": "verb",
+        "J Translation": "反転する"
+    },
+    {
+        "Meanings": "irrigation",
+        "English Definition": "supplying land with water using pipes",
+        "POS": "n",
+        "J Translation": "かんがい"
+    },
+    {
+        "Meanings": "liter",
+        "English Definition": "metric unit for measuring liquid or gas",
+        "POS": "n",
+        "J Translation": "リットル"
+    },
+    {
+        "Meanings": "locus",
+        "English Definition": "a place or location; in genetics: the location of a gene on a chromosome",
+        "POS": "n",
+        "J Translation": "軌跡"
+    },
+    {
+        "Meanings": "mentor",
+        "English Definition": "an experienced or wise person who teaches or helps another person",
+        "POS": "n",
+        "J Translation": "メンター"
+    },
+    {
+        "Meanings": "mercury",
+        "English Definition": "a heavy, silver-white metal that is used in thermometers to measure temperature; a planet",
+        "POS": "n",
+        "J Translation": "水銀"
+    },
+    {
+        "Meanings": "metabolism",
+        "English Definition": "the chemical processes of the body in which food is converted to energy",
+        "POS": "n",
+        "J Translation": "代謝"
+    },
+    {
+        "Meanings": "mole",
+        "English Definition": "a small animal with dark fur that lives under the ground; a unit for measuring molecules",
+        "POS": "n",
+        "J Translation": "ほくろ"
+    },
+    {
+        "Meanings": "neuron",
+        "English Definition": "a nerve cell; the basic building block of the nervous system.",
+        "POS": "n",
+        "J Translation": "ニューロン"
+    },
+    {
+        "Meanings": "notation",
+        "English Definition": "a set of written signs or shapes that are used in music or mathematics",
+        "POS": "n",
+        "J Translation": "表記法"
+    },
+    {
+        "Meanings": "novice",
+        "English Definition": "a person with little or no experience in a particular activity, skill, or subject",
+        "POS": "n",
+        "J Translation": "初心者"
+    },
+    {
+        "Meanings": "onwards",
+        "English Definition": "forward",
+        "POS": "adv",
+        "J Translation": "前方へ"
+    },
+    {
+        "Meanings": "oscillation",
+        "English Definition": "movement, from side to side at a steady speed; a frequent change in size, strength, or direction between two limits",
+        "POS": "n",
+        "J Translation": "振動"
+    },
+    {
+        "Meanings": "partition",
+        "English Definition": "a wall, screen, or piece of glass used to separate one area from another",
+        "POS": "n",
+        "J Translation": "分割"
+    },
+    {
+        "Meanings": "physiological",
+        "English Definition": "concerning how the body functions",
+        "POS": "adj",
+        "J Translation": "生理学的な"
+    },
+    {
+        "Meanings": "quiz",
+        "English Definition": "a game in which players answer questions on a specific topic",
+        "POS": "n",
+        "J Translation": "小テスト，小テストをする"
+    },
+    {
+        "Meanings": "radius",
+        "English Definition": "a given area or a range around a certain point; a line from the center of a circle to its edge",
+        "POS": "n",
+        "J Translation": "半径"
+    },
+    {
+        "Meanings": "receptor",
+        "English Definition": "a device that receives information; in physiology: a nerve ending that changes stimuli into impulses",
+        "POS": "n",
+        "J Translation": "受容体"
+    },
+    {
+        "Meanings": "repertoire",
+        "English Definition": "a collection of skills or accomplishments.",
+        "POS": "n",
+        "J Translation": "レパートリー"
+    },
+    {
+        "Meanings": "respiratory",
+        "English Definition": "to do with breathing",
+        "POS": "adj",
+        "J Translation": "呼吸器の"
+    },
+    {
+        "Meanings": "scroll",
+        "English Definition": "a long rolled piece of paper with writing on it; to move up and down a computer screen",
+        "POS": "n",
+        "J Translation": "スクロール"
+    },
+    {
+        "Meanings": "secrete",
+        "English Definition": "to produce a liquid",
+        "POS": "verb",
+        "J Translation": "隠す；分泌する"
+    },
+    {
+        "Meanings": "sensory",
+        "English Definition": "referring to the five senses (hearing, sight, smell, taste and touch)",
+        "POS": "adj",
+        "J Translation": "感覚の"
+    },
+    {
+        "Meanings": "solvent",
+        "English Definition": "something that dissolves or can melt another substance",
+        "POS": "n",
+        "J Translation": "溶剤"
+    },
+    {
+        "Meanings": "sperm",
+        "English Definition": "male sex cell",
+        "POS": "n",
+        "J Translation": "精子"
+    },
+    {
+        "Meanings": "syllable",
+        "English Definition": "a unit of speech",
+        "POS": "n",
+        "J Translation": "音節"
+    },
+    {
+        "Meanings": "terminology",
+        "English Definition": "specific words and expressions used in a particular field",
+        "POS": "n",
+        "J Translation": "用語"
+    },
+    {
+        "Meanings": "transcribe",
+        "English Definition": "to write something spoken",
+        "POS": "verb",
+        "J Translation": "～を書き写す"
+    },
+    {
+        "Meanings": "vector",
+        "English Definition": "a quantity that has both size and direction.",
+        "POS": "n",
+        "J Translation": "ベクトル"
+    },
+    {
+        "Meanings": "yeast",
+        "English Definition": "a single-celled fungi used to make bread and beer",
+        "POS": "n",
+        "J Translation": "イースト"
+    },
+    {
+        "Meanings": "amino",
+        "English Definition": "a substance that combines to form the structure of proteins",
+        "POS": "n",
+        "J Translation": "アミノ酸"
+    },
+    {
+        "Meanings": "artifact",
+        "English Definition": "object made by humans, e.g. ancient tool",
+        "POS": "n",
+        "J Translation": "工芸品；人工遺物"
+    },
+    {
+        "Meanings": "bilingual",
+        "English Definition": "being able to speak two languages well",
+        "POS": "adj",
+        "J Translation": "バイリンガル"
+    },
+    {
+        "Meanings": "chemotherapy",
+        "English Definition": "the treatment of diseases, such as cancer, using chemicals",
+        "POS": "n",
+        "J Translation": "化学療法"
+    },
+    {
+        "Meanings": "confound",
+        "English Definition": "to confuse and greatly surprise someone, so that they are unable to explain a situation",
+        "POS": "verb",
+        "J Translation": "情況などを混乱させる"
+    },
+    {
+        "Meanings": "dissection",
+        "English Definition": "the act or process of cutting something",
+        "POS": "n",
+        "J Translation": "切開"
+    },
+    {
+        "Meanings": "dissertation",
+        "English Definition": "an in-depth paper submitted for a doctorate degree",
+        "POS": "n",
+        "J Translation": "論文"
+    },
+    {
+        "Meanings": "entrant",
+        "English Definition": "a person who enters a contest",
+        "POS": "n",
+        "J Translation": "参加者"
+    },
+    {
+        "Meanings": "fetal",
+        "English Definition": "concerning a fetus, an unborn baby",
+        "POS": "adj",
+        "J Translation": "胎児"
+    },
+    {
+        "Meanings": "gradient",
+        "English Definition": "a measure of how steep something is",
+        "POS": "n",
+        "J Translation": "勾配"
+    },
+    {
+        "Meanings": "grammatical",
+        "English Definition": "concerning grammatical rules",
+        "POS": "adj",
+        "J Translation": "文法の"
+    },
+    {
+        "Meanings": "infinity",
+        "English Definition": "with out end; limitless",
+        "POS": "n",
+        "J Translation": "無限"
+    },
+    {
+        "Meanings": "innate",
+        "English Definition": "present in a person or animal from the time of birth",
+        "POS": "adj",
+        "J Translation": "生まれつきの"
+    },
+    {
+        "Meanings": "longitudinal",
+        "English Definition": "going from the top to the bottom of something",
+        "POS": "adj",
+        "J Translation": "縦方向の"
+    },
+    {
+        "Meanings": "marrow",
+        "English Definition": "a soft, fatty tissue inside bones",
+        "POS": "n",
+        "J Translation": "骨髄"
+    },
+    {
+        "Meanings": "millimeter",
+        "English Definition": "1/1000th of a meter",
+        "POS": "n",
+        "J Translation": "ミリリットル"
+    },
+    {
+        "Meanings": "morphological",
+        "English Definition": "the study of form and structure",
+        "POS": "adj",
+        "J Translation": "形態素"
+    },
+    {
+        "Meanings": "morphology",
+        "English Definition": "the study of the forms and structures of plants, animals and words",
+        "POS": "n",
+        "J Translation": "形態"
+    },
+    {
+        "Meanings": "neural",
+        "English Definition": "about the nerves or nervous system",
+        "POS": "adj",
+        "J Translation": "神経の"
+    },
+    {
+        "Meanings": "null",
+        "English Definition": "having no impact",
+        "POS": "adj",
+        "J Translation": "無効の"
+    },
+    {
+        "Meanings": "optimum",
+        "English Definition": "the best or most desirable",
+        "POS": "adj",
+        "J Translation": "最適な"
+    },
+    {
+        "Meanings": "phenomenal",
+        "English Definition": "unusual, remarkable",
+        "POS": "adj",
+        "J Translation": "驚異的な"
+    },
+    {
+        "Meanings": "phosphate",
+        "English Definition": "a salt or compound used to help grown plants",
+        "POS": "n",
+        "J Translation": "リン酸塩"
+    },
+    {
+        "Meanings": "potassium",
+        "English Definition": "a common, soft, silvery white metal that is usually used for farming or industrial purposes",
+        "POS": "n",
+        "J Translation": "カリウム"
+    },
+    {
+        "Meanings": "primer",
+        "English Definition": "a book that covers the basics of a subject; a kind of paint",
+        "POS": "n",
+        "J Translation": "入門書"
+    },
+    {
+        "Meanings": "proton",
+        "English Definition": "a very small part of an atom that has a positive electrical charge",
+        "POS": "n",
+        "J Translation": "陽子"
+    },
+    {
+        "Meanings": "soluble",
+        "English Definition": "can be mixed with a liquid, e.g. salt is soluble in water",
+        "POS": "adj",
+        "J Translation": "水溶性"
+    },
+    {
+        "Meanings": "substrate",
+        "English Definition": "a substance which a catalyst or enzyme has an effect on",
+        "POS": "verb",
+        "J Translation": "基板"
+    },
+    {
+        "Meanings": "subtract",
+        "English Definition": "to take away, e.g. 20 - 5 = 15",
+        "POS": "verb",
+        "J Translation": "減算する"
+    },
+    {
+        "Meanings": "syllabus",
+        "English Definition": "the teaching schedule for a course in a school or university",
+        "POS": "n",
+        "J Translation": "概要"
+    },
+    {
+        "Meanings": "trajectory",
+        "English Definition": "the path followed by an object moving through space",
+        "POS": "n",
+        "J Translation": "弾道"
+    },
+    {
+        "Meanings": "transparency",
+        "English Definition": "the amount you can see through something",
+        "POS": "n",
+        "J Translation": "透明"
+    },
+    {
+        "Meanings": "vowel",
+        "English Definition": "a speech sound; a, e , i, o, u and sometimes y",
+        "POS": "n",
+        "J Translation": "母音"
+    },
+    {
+        "Meanings": "watershed",
+        "English Definition": "a period of time during which important, significant changes take place",
+        "POS": "verb",
+        "J Translation": "流域"
+    },
+    {
+        "Meanings": "algebra",
+        "English Definition": "mathematics using letters and symbols in place of some numbers",
+        "POS": "n",
+        "J Translation": "代数学"
+    },
+    {
+        "Meanings": "amplitude",
+        "English Definition": "the breadth, width or largeness of something",
+        "POS": "n",
+        "J Translation": "振幅"
+    },
+    {
+        "Meanings": "biodiversity",
+        "English Definition": "the variation in an environment, the number of different types of life found there",
+        "POS": "n",
+        "J Translation": "生物多様性"
+    },
+    {
+        "Meanings": "chloride",
+        "English Definition": "a chemical compound that is a mixture of chlorine and something else",
+        "POS": "n",
+        "J Translation": "塩化物"
+    },
+    {
+        "Meanings": "circa",
+        "English Definition": "an approximate time period",
+        "POS": "n",
+        "J Translation": "約（年号に使われる）"
+    },
+    {
+        "Meanings": "consonant",
+        "English Definition": "a speech sound; any letter in the alphabet that is not a vowel.",
+        "POS": "adj",
+        "J Translation": "一致した"
+    },
+    {
+        "Meanings": "cortex",
+        "English Definition": "the outer part of an organ or structure",
+        "POS": "n",
+        "J Translation": "皮質"
+    },
+    {
+        "Meanings": "inversion",
+        "English Definition": "a change in position of things so they become the opposite",
+        "POS": "n",
+        "J Translation": "反転"
+    },
+    {
+        "Meanings": "lexical",
+        "English Definition": "about words",
+        "POS": "adj",
+        "J Translation": "語彙の"
+    },
+    {
+        "Meanings": "multi",
+        "English Definition": "a prefix meaning 'more than one'",
+        "POS": "prefix",
+        "J Translation": "多数の"
+    },
+    {
+        "Meanings": "phonological",
+        "English Definition": "concerning sound",
+        "POS": "adj",
+        "J Translation": "音韻的な"
+    },
+    {
+        "Meanings": "postgraduate",
+        "English Definition": "graduate studying for a further degree",
+        "POS": "n",
+        "J Translation": "大学院生"
+    },
+    {
+        "Meanings": "sneeze",
+        "English Definition": "to loudly blow air out of your nose or mouth in a sudden uncontrolled way",
+        "POS": "verb",
+        "J Translation": "くしゃみをする"
+    },
+    {
+        "Meanings": "syntactic",
+        "English Definition": "grammatical",
+        "POS": "adj",
+        "J Translation": "構文"
+    },
+    {
+        "Meanings": "syntax",
+        "English Definition": "the study of a system, such as the system of words in a sentence",
+        "POS": "n",
+        "J Translation": "構文"
+    },
+    {
+        "Meanings": "theorem",
+        "English Definition": "a statement that can be proved",
+        "POS": "n",
+        "J Translation": "定理"
+    },
+    {
+        "Meanings": "aerosol",
+        "English Definition": "a container that sprays liquid under pressure",
+        "POS": "n",
+        "J Translation": "エアロゾル"
+    },
+    {
+        "Meanings": "axiom",
+        "English Definition": "a statement that is accepted as true",
+        "POS": "n",
+        "J Translation": "公理"
+    },
+    {
+        "Meanings": "calculus",
+        "English Definition": "a type of mathematics used for calculating such things as the slopes of curves",
+        "POS": "n",
+        "J Translation": "結石、微積分（数学）"
+    },
+    {
+        "Meanings": "capillary",
+        "English Definition": "very small blood vessels",
+        "POS": "n",
+        "J Translation": "毛細血管"
+    },
+    {
+        "Meanings": "comma",
+        "English Definition": "mark showing a pause or list in a sentence",
+        "POS": "n",
+        "J Translation": "コンマ"
+    },
+    {
+        "Meanings": "congruent",
+        "English Definition": "having the same shape and size",
+        "POS": "adj",
+        "J Translation": "合同の"
+    },
+    {
+        "Meanings": "denominator",
+        "English Definition": "the bottom number in a fraction",
+        "POS": "n",
+        "J Translation": "分母"
+    },
+    {
+        "Meanings": "equivalence",
+        "English Definition": "when something is equal to something else",
+        "POS": "n",
+        "J Translation": "同価値"
+    },
+    {
+        "Meanings": "exponential",
+        "English Definition": "a constant e raised to a power equal to a given expression: e.g. e3x is the exponential of 3x.",
+        "POS": "adj",
+        "J Translation": "指数の"
+    },
+    {
+        "Meanings": "helix",
+        "English Definition": "a 3D spiral shape",
+        "POS": "n",
+        "J Translation": "螺旋"
+    },
+    {
+        "Meanings": "herbicide",
+        "English Definition": "a poison that kills weeds",
+        "POS": "n",
+        "J Translation": "除草剤"
+    },
+    {
+        "Meanings": "semi",
+        "English Definition": "a prefix meaning 'half'",
+        "POS": "prefix",
+        "J Translation": "半；準"
+    },
+    {
+        "Meanings": "splice",
+        "English Definition": "act of connecting two pieces of rope or wire into one",
+        "POS": "n",
+        "J Translation": "接合"
+    },
+    {
+        "Meanings": "connotation",
+        "English Definition": "an association; an implication",
+        "POS": "n",
+        "J Translation": "含蓄"
+    },
+    {
+        "Meanings": "descriptor",
+        "English Definition": "a label; something that describes",
+        "POS": "n",
+        "J Translation": "記述語；記述子"
+    },
+    {
+        "Meanings": "oxidize",
+        "English Definition": "to convert (an element) into an oxide; combine with oxygen - to rust",
+        "POS": "verb",
+        "J Translation": "酸化"
+    },
+    {
+        "Meanings": "parenthesis",
+        "English Definition": "one of two symbols ( and ), used in writing",
+        "POS": "n",
+        "J Translation": "括弧"
+    },
+    {
+        "Meanings": "semester",
+        "English Definition": "half a year in school or college",
+        "POS": "n",
+        "J Translation": "学期"
+    },
+    {
+        "Meanings": "trans",
+        "English Definition": "a prefix meaning 'across', 'through' or 'changing thoroughly'",
+        "POS": "prefix",
+        "J Translation": "トランス"
+    },
+    {
+        "Meanings": "volition",
+        "English Definition": "the act of making a conscious choice",
+        "POS": "n",
+        "J Translation": "意志選択行為"
+    },
+    {
+        "Meanings": "factorial",
+        "English Definition": "concerning factors or factorials",
+        "POS": "adj",
+        "J Translation": "要因の；階乗の"
+    },
+    {
+        "Meanings": "solute",
+        "English Definition": "a substance that has dissolved in a solvent and become part of the liquid, so that they form a solution",
+        "POS": "adj",
+        "J Translation": "溶質"
+    },
+    {
+        "Meanings": "mid",
+        "English Definition": "at (or near) the middle point",
+        "POS": "adj",
+        "J Translation": "中央の"
+    },
+    {
+        "Meanings": "airplane",
+        "English Definition": "a machine that flies through the air",
+        "POS": "n",
+        "J Translation": "飛行機"
+    },
+    {
+        "Meanings": "artwork",
+        "English Definition": "photographs or pictures in a printed publication",
+        "POS": "n",
+        "J Translation": "作品"
+    },
+    {
+        "Meanings": "breakdown",
+        "English Definition": "when normal activity or behaviour stops",
+        "POS": "n",
+        "J Translation": "故障；破壊"
+    },
+    {
+        "Meanings": "classroom",
+        "English Definition": "room in a school where lessons take place",
+        "POS": "n",
+        "J Translation": "教室"
+    },
+    {
+        "Meanings": "feedback",
+        "English Definition": "a response to a message; information about a person's behavior",
+        "POS": "n",
+        "J Translation": "フィードバック"
+    },
+    {
+        "Meanings": "footnote",
+        "English Definition": "extra information at the bottom of a page",
+        "POS": "n",
+        "J Translation": "脚注"
+    },
+    {
+        "Meanings": "halfway",
+        "English Definition": "a middle point between two extremes",
+        "POS": "adv",
+        "J Translation": "中間で；途中で"
+    },
+    {
+        "Meanings": "handout",
+        "English Definition": "a piece of paper with information, often given out before a presentation",
+        "POS": "n",
+        "J Translation": "配布資料"
+    },
+    {
+        "Meanings": "homework",
+        "English Definition": "work that a student is given to do at home",
+        "POS": "n",
+        "J Translation": "宿題"
+    },
+    {
+        "Meanings": "layout",
+        "English Definition": "plan or design of something, e.g. of book page",
+        "POS": "n",
+        "J Translation": "レイアウト；設計"
+    },
+    {
+        "Meanings": "lifestyle",
+        "English Definition": "the type of life that you have",
+        "POS": "n",
+        "J Translation": "ライフスタイル；生活様式"
+    },
+    {
+        "Meanings": "lifetime",
+        "English Definition": "the time between birth and death",
+        "POS": "n",
+        "J Translation": "生涯"
+    },
+    {
+        "Meanings": "pathway",
+        "English Definition": "a path or way that you can walk",
+        "POS": "n",
+        "J Translation": "経路"
+    },
+    {
+        "Meanings": "rainfall",
+        "English Definition": "water falling from the sky",
+        "POS": "n",
+        "J Translation": "降雨"
+    },
+    {
+        "Meanings": "textbook",
+        "English Definition": "a book that is used to study",
+        "POS": "n",
+        "J Translation": "教科書"
+    },
+    {
+        "Meanings": "uplift",
+        "English Definition": "to make someone feel happier or more hopeful",
+        "POS": "n",
+        "J Translation": "元気付ける"
+    },
+    {
+        "Meanings": "wavelength",
+        "English Definition": "the size of a wave; a shared understanding",
+        "POS": "n",
+        "J Translation": "波長"
+    },
+    {
+        "Meanings": "widespread",
+        "English Definition": "happening or existing in many places; affecting many people",
+        "POS": "adj",
+        "J Translation": "広く行き渡っている"
+    },
+    {
+        "Meanings": "workshop",
+        "English Definition": "a brief intensive course for a small group; emphasizes problem solving",
+        "POS": "n",
+        "J Translation": "作業場；研修会"
+    },
+    {
+        "Meanings": "anti",
+        "English Definition": "a prefix meaning 'against' or 'opposed'",
+        "POS": "prefix",
+        "J Translation": "アンチ"
+    },
+    {
+        "Meanings": "ex",
+        "English Definition": "a prefix meaning \"out of,\" \"from,\" or \"not\"",
+        "POS": "prefix",
+        "J Translation": "元"
+    },
+    {
+        "Meanings": "micro",
+        "English Definition": "a prefix meaning 'very small', such as microchip",
+        "POS": "n",
+        "J Translation": "マイクロ"
+    },
+    {
+        "Meanings": "neo",
+        "English Definition": "a prefix meaning 'recent' or 'new'",
+        "POS": "n",
+        "J Translation": "ネオ"
+    },
+    {
+        "Meanings": "non",
+        "English Definition": "a prefix meaning 'not'",
+        "POS": "prefix",
+        "J Translation": "～でない"
+    },
+    {
+        "Meanings": "pi",
+        "English Definition": "the ratio of the circumference to the diameter of a circle; approximately equal to 3.14",
+        "POS": "n",
+        "J Translation": "パイ"
+    },
+    {
+        "Meanings": "pole",
+        "English Definition": "a long, narrow piece of metal or wood, that is used to hold or support something",
+        "POS": "n",
+        "J Translation": "極"
+    },
+    {
+        "Meanings": "pre",
+        "English Definition": "a prefix meaning 'before'",
+        "POS": "prefix",
+        "J Translation": "前"
+    },
+    {
+        "Meanings": "sub",
+        "English Definition": "a prefix meaning 'under' or 'instead of'",
+        "POS": "prefix",
+        "J Translation": "サブ"
+    },
+    {
+        "Meanings": "super",
+        "English Definition": "of the highest quality; great; marvelous",
+        "POS": "adj",
+        "J Translation": "超；最高の"
+    },
+    {
+        "Meanings": "headquarter",
+        "English Definition": "the main office of a company or organisation",
+        "POS": "n",
+        "J Translation": "本社"
+    },
+    {
+        "Meanings": "identical",
+        "English Definition": "the same in every way",
+        "POS": "adj",
+        "J Translation": "同一の"
+    },
+    {
+        "Meanings": "DESCENDENT",
+        "POS": "undefined",
+        "J Translation": "子孫"
+    }
+]
