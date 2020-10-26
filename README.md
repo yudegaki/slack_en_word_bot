@@ -22,6 +22,14 @@ ex) To answer "hoge"
 ans hoge
 ```
 
+### Judge
+
+#### Correct Answer
+![AC](./img/ac.png)
+
+#### Wrong Answer
+![WA](./img/wa.png)
+
 
 
 
